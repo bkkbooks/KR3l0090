@@ -1,0 +1,485 @@
+canonical_identifier: bkk:krp/KR3l0090/bkk/v1/markers/8
+seq: 8
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書山海經卷八晋郭璞撰}
+  - {type: page-break, offset: 0, content: '', id: KR3l0090_WYG_008-1a, image: WYG1042/WYG1042-0058c.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書山海經卷八晋郭璞撰}
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3l0090_tls_008-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR3l0090_tls_008-bkkxmlele1}
+  - {type: variant, offset: 4, length: 2, content: 第八, WYG: ''}
+  - {type: variant, offset: 4, length: 2, content: 第八, krp: ''}
+  - {type: xml-element, offset: 6, content: '', id: KR3l0090_tls_008-bkkxmlele2}
+  - {type: xml-element, offset: 6, content: '', id: KR3l0090_tls_008-bkkxmlele3}
+  - {type: xml-element, offset: 6, content: '', id: KR3l0090_tls_008-bkkxmlele4}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3l0090_tls_008-1a.3}
+  - {type: punctuation, offset: 17, content: 。, id: KR3l0090_tls_008-bkkpn1}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3l0090_tls_008-2a.1}
+  - {type: xml-element, offset: 17, content: '', id: KR3l0090_tls_008-bkkxmlele5}
+  - {type: xml-element, offset: 17, content: '', id: KR3l0090_tls_008-bkkxmlele6}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3l0090_tls_008-2a.2}
+  - {type: variant, offset: 21, length: 0, content: '', WYG: 音啓或作綮}
+  - {type: variant, offset: 21, length: 0, content: '', krp: 音啓或作綮}
+  - {type: punctuation, offset: 25, content: ，, id: KR3l0090_tls_008-bkkpn2}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3l0090_tls_008-2a.3}
+  - {type: punctuation, offset: 29, content: 。, id: KR3l0090_tls_008-bkkpn3}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3l0090_tls_008-3a.1}
+  - {type: xml-element, offset: 29, content: '', id: KR3l0090_tls_008-bkkxmlele7}
+  - {type: xml-element, offset: 29, content: '', id: KR3l0090_tls_008-bkkxmlele8}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3l0090_tls_008-3a.2}
+  - {type: variant, offset: 29, length: 0, content: '', WYG: 䏿肥膓也其人穴居食土無男女死即埋之其心不朽死百廿歳乃復更生}
+  - {type: variant, offset: 29, length: 0, content: '', krp: 䏿肥膓也其人穴居食土無男女死即埋之其心不朽死百廿歳乃復更生}
+  - {type: punctuation, offset: 33, content: ，, id: KR3l0090_tls_008-bkkpn4}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3l0090_tls_008-3a.3}
+  - {type: variant, offset: 36, length: 1, content: 陰, WYG: 隂燭龍也是燭九隂因名云}
+  - {type: variant, offset: 36, length: 1, content: 陰, krp: 隂燭龍也是燭九隂因名云}
+  - {type: punctuation, offset: 37, content: ，, id: KR3l0090_tls_008-bkkpn5}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3l0090_tls_008-3a.4}
+  - {type: punctuation, offset: 40, content: ，, id: KR3l0090_tls_008-bkkpn6}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3l0090_tls_008-3a.5}
+  - {type: punctuation, offset: 43, content: ，, id: KR3l0090_tls_008-bkkpn7}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3l0090_tls_008-3a.6}
+  - {type: page-break, offset: 45, content: '', id: KR3l0090_WYG_008-1b, image: WYG1042/WYG1042-0058d.png}
+  - {type: punctuation, offset: 46, content: ，, id: KR3l0090_tls_008-bkkpn8}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR3l0090_tls_008-3a.7}
+  - {type: punctuation, offset: 49, content: ，, id: KR3l0090_tls_008-bkkpn9}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3l0090_tls_008-3a.8}
+  - {type: punctuation, offset: 51, content: ，, id: KR3l0090_tls_008-bkkpn10}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3l0090_tls_008-3a.9}
+  - {type: punctuation, offset: 53, content: ，, id: KR3l0090_tls_008-bkkpn11}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3l0090_tls_008-3a.10}
+  - {type: punctuation, offset: 55, content: ，, id: KR3l0090_tls_008-bkkpn12}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3l0090_tls_008-3a.11}
+  - {type: variant, offset: 56, length: 1, content: 則, WYG: ''}
+  - {type: variant, offset: 56, length: 1, content: 則, krp: ''}
+  - {type: punctuation, offset: 59, content: ，, id: KR3l0090_tls_008-bkkpn13}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3l0090_tls_008-3a.12}
+  - {type: variant, offset: 59, length: 0, content: '', WYG: 息氣息也}
+  - {type: variant, offset: 59, length: 0, content: '', krp: 息氣息也}
+  - {type: punctuation, offset: 63, content: 。, id: KR3l0090_tls_008-bkkpn14}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR3l0090_tls_008-3a.13}
+  - {type: punctuation, offset: 68, content: 。, id: KR3l0090_tls_008-bkkpn15}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3l0090_tls_008-3a.14}
+  - {type: punctuation, offset: 71, content: ，, id: KR3l0090_tls_008-bkkpn16}
+  - {type: 'tls:seg', offset: 71, content: '', id: KR3l0090_tls_008-3a.15}
+  - {type: punctuation, offset: 75, content: ，, id: KR3l0090_tls_008-bkkpn17}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3l0090_tls_008-3a.16}
+  - {type: punctuation, offset: 77, content: ，, id: KR3l0090_tls_008-bkkpn18}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3l0090_tls_008-3a.17}
+  - {type: punctuation, offset: 81, content: 。, id: KR3l0090_tls_008-bkkpn19}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR3l0090_tls_008-4a.1}
+  - {type: xml-element, offset: 81, content: '', id: KR3l0090_tls_008-bkkxmlele9}
+  - {type: xml-element, offset: 81, content: '', id: KR3l0090_tls_008-bkkxmlele10}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR3l0090_tls_008-4a.2}
+  - {type: variant, offset: 81, length: 0, content: '', WYG: 淮南子曰龍身一足}
+  - {type: variant, offset: 81, length: 0, content: '', krp: 淮南子曰龍身一足}
+  - {type: punctuation, offset: 87, content: ，, id: KR3l0090_tls_008-bkkpn20}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3l0090_tls_008-4a.3}
+  - {type: punctuation, offset: 94, content: 。, id: KR3l0090_tls_008-bkkpn21}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3l0090_tls_008-4a.4}
+  - {type: punctuation, offset: 99, content: 。, id: KR3l0090_tls_008-bkkpn22}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3l0090_tls_008-5a.1}
+  - {type: xml-element, offset: 99, content: '', id: KR3l0090_tls_008-bkkxmlele11}
+  - {type: xml-element, offset: 99, content: '', id: KR3l0090_tls_008-bkkxmlele12}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3l0090_tls_008-5a.2}
+  - {type: punctuation, offset: 106, content: ，, id: KR3l0090_tls_008-bkkpn23}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR3l0090_tls_008-5a.3}
+  - {type: punctuation, offset: 112, content: ，, id: KR3l0090_tls_008-bkkpn24}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR3l0090_tls_008-5a.4}
+  - {type: punctuation, offset: 114, content: ，, id: KR3l0090_tls_008-bkkpn25}
+  - {type: 'tls:seg', offset: 114, content: '', id: KR3l0090_tls_008-5a.5}
+  - {type: punctuation, offset: 118, content: 。, id: KR3l0090_tls_008-bkkpn26}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3l0090_tls_008-5a.6}
+  - {type: variant, offset: 119, length: 0, content: '', WYG: 脚一手反卷曲也一}
+  - {type: variant, offset: 119, length: 0, content: '', krp: 脚一手反卷曲也一}
+  - {type: variant, offset: 120, length: 1, content: 留, WYG: 畱}
+  - {type: variant, offset: 120, length: 1, content: 留, krp: 畱}
+  - {type: punctuation, offset: 124, content: ，, id: KR3l0090_tls_008-bkkpn27}
+  - {type: 'tls:seg', offset: 124, content: '', id: KR3l0090_tls_008-5a.7}
+  - {type: punctuation, offset: 128, content: 。, id: KR3l0090_tls_008-bkkpn28}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3l0090_tls_008-6a.1}
+  - {type: xml-element, offset: 128, content: '', id: KR3l0090_tls_008-bkkxmlele13}
+  - {type: xml-element, offset: 128, content: '', id: KR3l0090_tls_008-bkkxmlele14}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3l0090_tls_008-6a.2}
+  - {type: variant, offset: 134, length: 1, content: 柳, WYG: 桞}
+  - {type: variant, offset: 134, length: 1, content: 柳, krp: 桞}
+  - {type: punctuation, offset: 136, content: ，, id: KR3l0090_tls_008-bkkpn29}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR3l0090_tls_008-6a.3}
+  - {type: variant, offset: 136, length: 0, content: '', WYG: 共工覇九州者}
+  - {type: variant, offset: 136, length: 0, content: '', krp: 共工覇九州者}
+  - {type: punctuation, offset: 138, content: ，, id: KR3l0090_tls_008-bkkpn30}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3l0090_tls_008-6a.4}
+  - {type: variant, offset: 140, length: 1, content: 于, WYG: 於}
+  - {type: variant, offset: 140, length: 1, content: 于, krp: 於}
+  - {type: punctuation, offset: 143, content: 。, id: KR3l0090_tls_008-bkkpn31}
+  - {type: 'tls:seg', offset: 143, content: '', id: KR3l0090_tls_008-6a.5}
+  - {type: variant, offset: 143, length: 0, content: '', WYG: 頭各自食一山之物言貪曓難饜}
+  - {type: variant, offset: 143, length: 0, content: '', krp: 頭各自食一山之物言貪曓難饜}
+  - {type: variant, offset: 144, length: 1, content: 柳, WYG: 桞}
+  - {type: variant, offset: 144, length: 1, content: 柳, krp: 桞}
+  - {type: punctuation, offset: 148, content: ，, id: KR3l0090_tls_008-bkkpn32}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR3l0090_tls_008-6a.6}
+  - {type: substitution, offset: 151, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
+  - {type: punctuation, offset: 152, content: 。, id: KR3l0090_tls_008-bkkpn33}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR3l0090_tls_008-6a.7}
+  - {type: variant, offset: 152, length: 0, content: '', WYG: 抵觸厥掘也音撅}
+  - {type: variant, offset: 152, length: 0, content: '', krp: 抵觸厥掘也音撅}
+  - {type: variant, offset: 155, length: 1, content: 柳, WYG: 桞}
+  - {type: variant, offset: 155, length: 1, content: 柳, krp: 桞}
+  - {type: punctuation, offset: 156, content: ，, id: KR3l0090_tls_008-bkkpn34}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3l0090_tls_008-6a.8}
+  - {type: punctuation, offset: 159, content: ，, id: KR3l0090_tls_008-bkkpn35}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3l0090_tls_008-6a.9}
+  - {type: variant, offset: 162, length: 1, content: 樹, WYG: 𣗳五}
+  - {type: variant, offset: 162, length: 1, content: 樹, krp: 𣗳五}
+  - {type: punctuation, offset: 165, content: 。, id: KR3l0090_tls_008-bkkpn36}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR3l0090_tls_008-6a.10}
+  - {type: punctuation, offset: 168, content: ，, id: KR3l0090_tls_008-bkkpn37}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3l0090_tls_008-6a.11}
+  - {type: variant, offset: 169, length: 1, content: 仞, WYG: 仭}
+  - {type: variant, offset: 169, length: 1, content: 仞, krp: 仭}
+  - {type: punctuation, offset: 172, content: ，, id: KR3l0090_tls_008-bkkpn38}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3l0090_tls_008-6a.12}
+  - {type: variant, offset: 172, length: 0, content: '', WYG: 掘塞之而土三沮陷言其血膏浸潤壊也}
+  - {type: page-break, offset: 172, content: '', id: KR3l0090_WYG_008-2a, image: WYG1042/WYG1042-0059a.png}
+  - {type: variant, offset: 172, length: 0, content: '', krp: 掘塞之而土三沮陷言其血膏浸潤壊也}
+  - {type: variant, offset: 175, length: 1, content: 眾, WYG: 衆}
+  - {type: variant, offset: 175, length: 1, content: 眾, krp: 衆}
+  - {type: substitution, offset: 175, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 179, content: 。, id: KR3l0090_tls_008-bkkpn39}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3l0090_tls_008-6a.13}
+  - {type: variant, offset: 179, length: 0, content: '', WYG: 言地潤濕唯可積土以為臺觀}
+  - {type: variant, offset: 179, length: 0, content: '', krp: 言地潤濕唯可積土以為臺觀}
+  - {type: punctuation, offset: 184, content: ，, id: KR3l0090_tls_008-bkkpn40}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR3l0090_tls_008-6a.14}
+  - {type: variant, offset: 184, length: 0, content: '', WYG: 此崑崙山在海外者}
+  - {type: variant, offset: 184, length: 0, content: '', krp: 此崑崙山在海外者}
+  - {type: punctuation, offset: 188, content: 。, id: KR3l0090_tls_008-bkkpn41}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR3l0090_tls_008-6a.15}
+  - {type: variant, offset: 189, length: 1, content: 柳, WYG: 桞}
+  - {type: variant, offset: 189, length: 1, content: 柳, krp: 桞}
+  - {type: punctuation, offset: 191, content: ，, id: KR3l0090_tls_008-bkkpn42}
+  - {type: 'tls:seg', offset: 191, content: '', id: KR3l0090_tls_008-6a.16}
+  - {type: variant, offset: 194, length: 1, content: 面, WYG: 靣}
+  - {type: variant, offset: 194, length: 1, content: 面, krp: 靣}
+  - {type: punctuation, offset: 195, content: ，, id: KR3l0090_tls_008-bkkpn43}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3l0090_tls_008-6a.17}
+  - {type: punctuation, offset: 199, content: 。, id: KR3l0090_tls_008-bkkpn44}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3l0090_tls_008-6a.18}
+  - {type: punctuation, offset: 203, content: ，, id: KR3l0090_tls_008-bkkpn45}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR3l0090_tls_008-6a.19}
+  - {type: punctuation, offset: 208, content: 。, id: KR3l0090_tls_008-bkkpn46}
+  - {type: 'tls:seg', offset: 208, content: '', id: KR3l0090_tls_008-6a.20}
+  - {type: punctuation, offset: 212, content: ，, id: KR3l0090_tls_008-bkkpn47}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR3l0090_tls_008-6a.21}
+  - {type: punctuation, offset: 215, content: ，, id: KR3l0090_tls_008-bkkpn48}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR3l0090_tls_008-6a.22}
+  - {type: punctuation, offset: 219, content: ，, id: KR3l0090_tls_008-bkkpn49}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3l0090_tls_008-6a.23}
+  - {type: punctuation, offset: 221, content: ，, id: KR3l0090_tls_008-bkkpn50}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3l0090_tls_008-6a.24}
+  - {type: punctuation, offset: 225, content: 。, id: KR3l0090_tls_008-bkkpn51}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3l0090_tls_008-7a.1}
+  - {type: xml-element, offset: 225, content: '', id: KR3l0090_tls_008-bkkxmlele15}
+  - {type: xml-element, offset: 225, content: '', id: KR3l0090_tls_008-bkkxmlele16}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3l0090_tls_008-7a.2}
+  - {type: variant, offset: 225, length: 0, content: '', WYG: 衝猶向也}
+  - {type: variant, offset: 225, length: 0, content: '', krp: 衝猶向也}
+  - {type: punctuation, offset: 231, content: ，, id: KR3l0090_tls_008-bkkpn52}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3l0090_tls_008-7a.3}
+  - {type: punctuation, offset: 238, content: ，, id: KR3l0090_tls_008-bkkpn53}
+  - {type: 'tls:seg', offset: 238, content: '', id: KR3l0090_tls_008-7a.4}
+  - {type: variant, offset: 238, length: 0, content: '', WYG: 一作日}
+  - {type: variant, offset: 238, length: 0, content: '', krp: 一作日}
+  - {type: punctuation, offset: 243, content: 。, id: KR3l0090_tls_008-bkkpn54}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR3l0090_tls_008-8a.1}
+  - {type: xml-element, offset: 243, content: '', id: KR3l0090_tls_008-bkkxmlele17}
+  - {type: xml-element, offset: 243, content: '', id: KR3l0090_tls_008-bkkxmlele18}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR3l0090_tls_008-8a.2}
+  - {type: punctuation, offset: 251, content: ，, id: KR3l0090_tls_008-bkkpn55}
+  - {type: 'tls:seg', offset: 251, content: '', id: KR3l0090_tls_008-8a.3}
+  - {type: variant, offset: 251, length: 0, content: '', WYG: 一作南}
+  - {type: variant, offset: 251, length: 0, content: '', krp: 一作南}
+  - {type: punctuation, offset: 258, content: 。, id: KR3l0090_tls_008-bkkpn56}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR3l0090_tls_008-9a.1}
+  - {type: xml-element, offset: 258, content: '', id: KR3l0090_tls_008-bkkxmlele19}
+  - {type: xml-element, offset: 258, content: '', id: KR3l0090_tls_008-bkkxmlele20}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR3l0090_tls_008-9a.2}
+  - {type: variant, offset: 258, length: 0, content: '', WYG: 為人長大腹内無腸所食之物直通過}
+  - {type: variant, offset: 258, length: 0, content: '', krp: 為人長大腹内無腸所食之物直通過}
+  - {type: punctuation, offset: 267, content: ，, id: KR3l0090_tls_008-bkkpn57}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3l0090_tls_008-9a.3}
+  - {type: punctuation, offset: 271, content: ，, id: KR3l0090_tls_008-bkkpn58}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3l0090_tls_008-9a.4}
+  - {type: punctuation, offset: 278, content: 。, id: KR3l0090_tls_008-bkkpn59}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3l0090_tls_008-9a.5}
+  - {type: variant, offset: 278, length: 0, content: '', WYG: 言耳長行則以手攝持之也音諾頰反}
+  - {type: page-break, offset: 278, content: '', id: KR3l0090_WYG_008-2b, image: WYG1042/WYG1042-0059b.png}
+  - {type: variant, offset: 278, length: 0, content: '', krp: 言耳長行則以手攝持之也音諾頰反}
+  - {type: punctuation, offset: 283, content: ，, id: KR3l0090_tls_008-bkkpn60}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR3l0090_tls_008-9a.6}
+  - {type: variant, offset: 283, length: 0, content: '', WYG: 縣猶邑也}
+  - {type: variant, offset: 283, length: 0, content: '', krp: 縣猶邑也}
+  - {type: variant, offset: 288, length: 1, content: 奇, WYG: 竒}
+  - {type: variant, offset: 288, length: 1, content: 奇, krp: 竒}
+  - {type: punctuation, offset: 290, content: 。, id: KR3l0090_tls_008-bkkpn61}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR3l0090_tls_008-9a.7}
+  - {type: variant, offset: 290, length: 0, content: '', WYG: 言盡規有之}
+  - {type: variant, offset: 290, length: 0, content: '', krp: 言盡規有之}
+  - {type: punctuation, offset: 295, content: 。, id: KR3l0090_tls_008-bkkpn62}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR3l0090_tls_008-10a.1}
+  - {type: xml-element, offset: 295, content: '', id: KR3l0090_tls_008-bkkxmlele21}
+  - {type: xml-element, offset: 295, content: '', id: KR3l0090_tls_008-bkkxmlele22}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR3l0090_tls_008-10a.2}
+  - {type: punctuation, offset: 301, content: ，, id: KR3l0090_tls_008-bkkpn63}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3l0090_tls_008-10a.3}
+  - {type: punctuation, offset: 303, content: 。, id: KR3l0090_tls_008-bkkpn64}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR3l0090_tls_008-10a.4}
+  - {type: variant, offset: 303, length: 0, content: '', WYG: 言及日于將入也逐音胄}
+  - {type: variant, offset: 303, length: 0, content: '', krp: 言及日于將入也逐音胄}
+  - {type: punctuation, offset: 304, content: ，, id: KR3l0090_tls_008-bkkpn65}
+  - {type: punctuation, offset: 307, content: ，, id: KR3l0090_tls_008-bkkpn66}
+  - {type: 'tls:seg', offset: 307, content: '', id: KR3l0090_tls_008-10a.5}
+  - {type: punctuation, offset: 311, content: ；, id: KR3l0090_tls_008-bkkpn67}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR3l0090_tls_008-10a.6}
+  - {type: punctuation, offset: 315, content: ，, id: KR3l0090_tls_008-bkkpn68}
+  - {type: 'tls:seg', offset: 315, content: '', id: KR3l0090_tls_008-10a.7}
+  - {type: punctuation, offset: 319, content: 。, id: KR3l0090_tls_008-bkkpn69}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3l0090_tls_008-10a.8}
+  - {type: punctuation, offset: 321, content: ，, id: KR3l0090_tls_008-bkkpn70}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR3l0090_tls_008-10a.9}
+  - {type: punctuation, offset: 325, content: 。, id: KR3l0090_tls_008-bkkpn71}
+  - {type: 'tls:seg', offset: 325, content: '', id: KR3l0090_tls_008-10a.10}
+  - {type: variant, offset: 325, length: 1, content: 棄, WYG: 弃}
+  - {type: variant, offset: 325, length: 1, content: 棄, krp: 弃}
+  - {type: punctuation, offset: 328, content: ，, id: KR3l0090_tls_008-bkkpn72}
+  - {type: 'tls:seg', offset: 328, content: '', id: KR3l0090_tls_008-10a.11}
+  - {type: punctuation, offset: 332, content: 。, id: KR3l0090_tls_008-bkkpn73}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR3l0090_tls_008-11a.1}
+  - {type: xml-element, offset: 332, content: '', id: KR3l0090_tls_008-bkkxmlele23}
+  - {type: xml-element, offset: 332, content: '', id: KR3l0090_tls_008-bkkxmlele24}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR3l0090_tls_008-11a.2}
+  - {type: variant, offset: 332, length: 0, content: '', WYG: 夸父者盖神人之名也其能及日景而傾河渭豈以走飲哉寄用于走飲耳幾乎不疾而速不行而至者矣此以一體為萬殊存亡代謝寄鄧林而逰形惡得尋其靈化哉}
+  - {type: variant, offset: 332, length: 0, content: '', krp: 夸父者盖神人之名也其能及日景而傾河渭豈以走飲哉寄用于走飲耳幾乎不疾而速不行而至者矣此以一體為萬殊存亡代謝寄鄧林而逰形惡得尋其靈化哉}
+  - {type: punctuation, offset: 339, content: ，, id: KR3l0090_tls_008-bkkpn74}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR3l0090_tls_008-11a.3}
+  - {type: punctuation, offset: 343, content: ，, id: KR3l0090_tls_008-bkkpn75}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR3l0090_tls_008-11a.4}
+  - {type: punctuation, offset: 348, content: ，, id: KR3l0090_tls_008-bkkpn76}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR3l0090_tls_008-11a.5}
+  - {type: variant, offset: 351, length: 1, content: 黃, WYG: 黄}
+  - {type: variant, offset: 351, length: 1, content: 黃, krp: 黄}
+  - {type: punctuation, offset: 353, content: 。, id: KR3l0090_tls_008-bkkpn77}
+  - {type: 'tls:seg', offset: 353, content: '', id: KR3l0090_tls_008-11a.6}
+  - {type: punctuation, offset: 358, content: ，, id: KR3l0090_tls_008-bkkpn78}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR3l0090_tls_008-11a.7}
+  - {type: variant, offset: 359, length: 1, content: 樹, WYG: 𣗳}
+  - {type: variant, offset: 359, length: 1, content: 樹, krp: 𣗳}
+  - {type: punctuation, offset: 361, content: 。, id: KR3l0090_tls_008-bkkpn79}
+  - {type: 'tls:seg', offset: 361, content: '', id: KR3l0090_tls_008-11a.8}
+  - {type: punctuation, offset: 365, content: 。, id: KR3l0090_tls_008-bkkpn80}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR3l0090_tls_008-12a.1}
+  - {type: xml-element, offset: 365, content: '', id: KR3l0090_tls_008-bkkxmlele25}
+  - {type: xml-element, offset: 365, content: '', id: KR3l0090_tls_008-bkkxmlele26}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR3l0090_tls_008-12a.2}
+  - {type: punctuation, offset: 374, content: ，, id: KR3l0090_tls_008-bkkpn81}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR3l0090_tls_008-12a.3}
+  - {type: page-break, offset: 374, content: '', id: KR3l0090_WYG_008-3a, image: WYG1042/WYG1042-0059c.png}
+  - {type: punctuation, offset: 378, content: 。, id: KR3l0090_tls_008-bkkpn82}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR3l0090_tls_008-13a.1}
+  - {type: xml-element, offset: 378, content: '', id: KR3l0090_tls_008-bkkxmlele27}
+  - {type: xml-element, offset: 378, content: '', id: KR3l0090_tls_008-bkkxmlele28}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR3l0090_tls_008-13a.2}
+  - {type: variant, offset: 378, length: 0, content: '', WYG: 河出崑崙而潛行地下至葱嶺復出注鹽澤從鹽澤復行南出於此山而為中國河遂注海也書曰導河積石言時有壅塞故導利以通之}
+  - {type: variant, offset: 378, length: 0, content: '', krp: 河出崑崙而潛行地下至葱嶺復出注鹽澤從鹽澤復行南出於此山而為中國河遂注海也書曰導河積石言時有壅塞故導利以通之}
+  - {type: punctuation, offset: 385, content: ，, id: KR3l0090_tls_008-bkkpn83}
+  - {type: 'tls:seg', offset: 385, content: '', id: KR3l0090_tls_008-13a.3}
+  - {type: punctuation, offset: 389, content: 。, id: KR3l0090_tls_008-bkkpn84}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3l0090_tls_008-13a.4}
+  - {type: variant, offset: 389, length: 0, content: '', WYG: 言其人常以一手持冠纓也或曰纓宜作癭}
+  - {type: variant, offset: 389, length: 0, content: '', krp: 言其人常以一手持冠纓也或曰纓宜作癭}
+  - {type: punctuation, offset: 395, content: 。, id: KR3l0090_tls_008-bkkpn85}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR3l0090_tls_008-14a.1}
+  - {type: xml-element, offset: 395, content: '', id: KR3l0090_tls_008-bkkxmlele29}
+  - {type: xml-element, offset: 395, content: '', id: KR3l0090_tls_008-bkkxmlele30}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR3l0090_tls_008-14a.2}
+  - {type: punctuation, offset: 400, content: ，, id: KR3l0090_tls_008-bkkpn86}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR3l0090_tls_008-14a.3}
+  - {type: punctuation, offset: 404, content: ，, id: KR3l0090_tls_008-bkkpn87}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR3l0090_tls_008-14a.4}
+  - {type: punctuation, offset: 409, content: 。, id: KR3l0090_tls_008-bkkpn88}
+  - {type: 'tls:seg', offset: 409, content: '', id: KR3l0090_tls_008-15a.1}
+  - {type: xml-element, offset: 409, content: '', id: KR3l0090_tls_008-bkkxmlele31}
+  - {type: xml-element, offset: 409, content: '', id: KR3l0090_tls_008-bkkxmlele32}
+  - {type: 'tls:seg', offset: 409, content: '', id: KR3l0090_tls_008-15a.2}
+  - {type: variant, offset: 412, length: 0, content: '', WYG: 􅉥音企}
+  - {type: variant, offset: 412, length: 0, content: '', krp: 跋音企}
+  - {type: punctuation, offset: 416, content: ，, id: KR3l0090_tls_008-bkkpn89}
+  - {type: 'tls:seg', offset: 416, content: '', id: KR3l0090_tls_008-15a.3}
+  - {type: punctuation, offset: 420, content: ，, id: KR3l0090_tls_008-bkkpn90}
+  - {type: 'tls:seg', offset: 420, content: '', id: KR3l0090_tls_008-15a.4}
+  - {type: punctuation, offset: 424, content: ，, id: KR3l0090_tls_008-bkkpn91}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3l0090_tls_008-15a.5}
+  - {type: variant, offset: 424, length: 0, content: '', WYG: 其人行脚跟不著地也孝經鈎命訣曰焦僥跂踵重譯欵塞也}
+  - {type: variant, offset: 424, length: 0, content: '', krp: 其人行脚跟不著地也孝經鈎命訣曰焦僥跂踵重譯欵塞也}
+  - {type: punctuation, offset: 428, content: 。, id: KR3l0090_tls_008-bkkpn92}
+  - {type: 'tls:seg', offset: 428, content: '', id: KR3l0090_tls_008-16a.1}
+  - {type: xml-element, offset: 428, content: '', id: KR3l0090_tls_008-bkkxmlele33}
+  - {type: xml-element, offset: 428, content: '', id: KR3l0090_tls_008-bkkxmlele34}
+  - {type: 'tls:seg', offset: 428, content: '', id: KR3l0090_tls_008-16a.2}
+  - {type: punctuation, offset: 436, content: ，, id: KR3l0090_tls_008-bkkpn93}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR3l0090_tls_008-16a.3}
+  - {type: variant, offset: 441, length: 1, content: 樹, WYG: 𣗳}
+  - {type: variant, offset: 441, length: 1, content: 樹, krp: 𣗳}
+  - {type: punctuation, offset: 444, content: 。, id: KR3l0090_tls_008-bkkpn94}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR3l0090_tls_008-17a.1}
+  - {type: xml-element, offset: 444, content: '', id: KR3l0090_tls_008-bkkxmlele35}
+  - {type: xml-element, offset: 444, content: '', id: KR3l0090_tls_008-bkkxmlele36}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR3l0090_tls_008-17a.2}
+  - {type: variant, offset: 444, length: 0, content: '', WYG: 言噉桑而吐絲盖蚕𩔖也}
+  - {type: variant, offset: 444, length: 0, content: '', krp: 言噉桑而吐絲盖蚕𩔖也}
+  - {type: punctuation, offset: 448, content: ，, id: KR3l0090_tls_008-bkkpn95}
+  - {type: 'tls:seg', offset: 448, content: '', id: KR3l0090_tls_008-17a.3}
+  - {type: punctuation, offset: 452, content: ，, id: KR3l0090_tls_008-bkkpn96}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR3l0090_tls_008-17a.4}
+  - {type: variant, offset: 456, length: 1, content: 仞, WYG: 仭}
+  - {type: variant, offset: 456, length: 1, content: 仞, krp: 仭}
+  - {type: punctuation, offset: 457, content: ，, id: KR3l0090_tls_008-bkkpn97}
+  - {type: 'tls:seg', offset: 457, content: '', id: KR3l0090_tls_008-17a.5}
+  - {type: punctuation, offset: 459, content: 。, id: KR3l0090_tls_008-bkkpn98}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3l0090_tls_008-18a.1}
+  - {type: xml-element, offset: 459, content: '', id: KR3l0090_tls_008-bkkxmlele37}
+  - {type: xml-element, offset: 459, content: '', id: KR3l0090_tls_008-bkkxmlele38}
+  - {type: 'tls:seg', offset: 459, content: '', id: KR3l0090_tls_008-18a.2}
+  - {type: variant, offset: 459, length: 0, content: '', WYG: 言皆長百仭也}
+  - {type: page-break, offset: 459, content: '', id: KR3l0090_WYG_008-3b, image: WYG1042/WYG1042-0059d.png}
+  - {type: variant, offset: 459, length: 0, content: '', krp: 言皆長百仭也}
+  - {type: variant, offset: 460, length: 1, content: 林, WYG: 陵}
+  - {type: variant, offset: 460, length: 1, content: 林, krp: 陵}
+  - {type: punctuation, offset: 465, content: ，, id: KR3l0090_tls_008-bkkpn99}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR3l0090_tls_008-18a.3}
+  - {type: punctuation, offset: 469, content: ，, id: KR3l0090_tls_008-bkkpn100}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR3l0090_tls_008-18a.4}
+  - {type: punctuation, offset: 473, content: 。, id: KR3l0090_tls_008-bkkpn101}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3l0090_tls_008-19a.1}
+  - {type: xml-element, offset: 473, content: '', id: KR3l0090_tls_008-bkkxmlele39}
+  - {type: xml-element, offset: 473, content: '', id: KR3l0090_tls_008-bkkxmlele40}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3l0090_tls_008-19a.2}
+  - {type: variant, offset: 473, length: 0, content: '', WYG: 洲水中可居者環繞也}
+  - {type: variant, offset: 473, length: 0, content: '', krp: 洲水中可居者環繞也}
+  - {type: punctuation, offset: 477, content: ，, id: KR3l0090_tls_008-bkkpn102}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR3l0090_tls_008-19a.3}
+  - {type: variant, offset: 480, length: 1, content: 葬, WYG: 𦵏}
+  - {type: variant, offset: 480, length: 1, content: 葬, krp: 𦵏}
+  - {type: variant, offset: 481, length: 1, content: 于, WYG: 於}
+  - {type: variant, offset: 481, length: 1, content: 于, krp: 於}
+  - {type: punctuation, offset: 483, content: ，, id: KR3l0090_tls_008-bkkpn103}
+  - {type: 'tls:seg', offset: 483, content: '', id: KR3l0090_tls_008-19a.4}
+  - {type: variant, offset: 483, length: 0, content: '', WYG: 顓頊號為髙陽冡今在濮陽故帝丘也一曰頓丘縣城門外廣陽里中}
+  - {type: variant, offset: 483, length: 0, content: '', krp: 顓頊號為髙陽冡今在濮陽故帝丘也一曰頓丘縣城門外廣陽里中}
+  - {type: variant, offset: 485, length: 3, content: 葬于陰, WYG: 𦵏於隂嬪婦}
+  - {type: variant, offset: 485, length: 3, content: 葬于陰, krp: 𦵏於隂嬪婦}
+  - {type: punctuation, offset: 488, content: 。, id: KR3l0090_tls_008-bkkpn104}
+  - {type: 'tls:seg', offset: 488, content: '', id: KR3l0090_tls_008-19a.5}
+  - {type: punctuation, offset: 493, content: 、, id: KR3l0090_tls_008-bkkpn105}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR3l0090_tls_008-19a.6}
+  - {type: punctuation, offset: 494, content: 、, id: KR3l0090_tls_008-bkkpn106}
+  - {type: punctuation, offset: 496, content: 、, id: KR3l0090_tls_008-bkkpn107}
+  - {type: 'tls:seg', offset: 496, content: '', id: KR3l0090_tls_008-19a.7}
+  - {type: punctuation, offset: 498, content: 、, id: KR3l0090_tls_008-bkkpn108}
+  - {type: 'tls:seg', offset: 498, content: '', id: KR3l0090_tls_008-19a.8}
+  - {type: variant, offset: 498, length: 1, content: 鴟, WYG: 􅀈}
+  - {type: variant, offset: 498, length: 1, content: 鴟, krp: 􅀈}
+  - {type: punctuation, offset: 500, content: 、, id: KR3l0090_tls_008-bkkpn109}
+  - {type: 'tls:seg', offset: 500, content: '', id: KR3l0090_tls_008-19a.9}
+  - {type: punctuation, offset: 502, content: 。, id: KR3l0090_tls_008-bkkpn110}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR3l0090_tls_008-20a.1}
+  - {type: xml-element, offset: 502, content: '', id: KR3l0090_tls_008-bkkxmlele41}
+  - {type: xml-element, offset: 502, content: '', id: KR3l0090_tls_008-bkkxmlele42}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR3l0090_tls_008-20a.2}
+  - {type: punctuation, offset: 508, content: ，, id: KR3l0090_tls_008-bkkpn111}
+  - {type: 'tls:seg', offset: 508, content: '', id: KR3l0090_tls_008-20a.3}
+  - {type: punctuation, offset: 512, content: 、, id: KR3l0090_tls_008-bkkpn112}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3l0090_tls_008-20a.4}
+  - {type: variant, offset: 512, length: 0, content: '', WYG: 遺玉玉石}
+  - {type: variant, offset: 512, length: 0, content: '', krp: 遺玉玉石}
+  - {type: punctuation, offset: 514, content: 、, id: KR3l0090_tls_008-bkkpn113}
+  - {type: 'tls:seg', offset: 514, content: '', id: KR3l0090_tls_008-20a.5}
+  - {type: punctuation, offset: 516, content: 、, id: KR3l0090_tls_008-bkkpn114}
+  - {type: 'tls:seg', offset: 516, content: '', id: KR3l0090_tls_008-20a.6}
+  - {type: punctuation, offset: 518, content: 、, id: KR3l0090_tls_008-bkkpn115}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR3l0090_tls_008-20a.7}
+  - {type: punctuation, offset: 520, content: 、, id: KR3l0090_tls_008-bkkpn116}
+  - {type: 'tls:seg', offset: 520, content: '', id: KR3l0090_tls_008-20a.8}
+  - {type: variant, offset: 520, length: 0, content: '', WYG: 其𣗳枝幹皆赤黄華白葉黒實吕氏春秋曰其山之東有}
+  - {type: variant, offset: 520, length: 0, content: '', krp: 其𣗳枝幹皆赤黄華白葉黒實吕氏春秋曰其山之東有}
+  - {type: variant, offset: 521, length: 0, content: '', WYG: 柤焉音如柤梨之柤甘華亦赤枝幹黄}
+  - {type: variant, offset: 521, length: 0, content: '', krp: 柤焉音如柤梨之柤甘華亦赤枝幹黄}
+  - {type: punctuation, offset: 522, content: ，, id: KR3l0090_tls_008-bkkpn117}
+  - {type: 'tls:seg', offset: 522, content: '', id: KR3l0090_tls_008-20a.9}
+  - {type: punctuation, offset: 526, content: ，, id: KR3l0090_tls_008-bkkpn118}
+  - {type: 'tls:seg', offset: 526, content: '', id: KR3l0090_tls_008-20a.10}
+  - {type: punctuation, offset: 532, content: ，, id: KR3l0090_tls_008-bkkpn119}
+  - {type: 'tls:seg', offset: 532, content: '', id: KR3l0090_tls_008-20a.11}
+  - {type: punctuation, offset: 537, content: ，, id: KR3l0090_tls_008-bkkpn120}
+  - {type: 'tls:seg', offset: 537, content: '', id: KR3l0090_tls_008-20a.12}
+  - {type: punctuation, offset: 541, content: 。, id: KR3l0090_tls_008-bkkpn121}
+  - {type: 'tls:seg', offset: 541, content: '', id: KR3l0090_tls_008-21a.1}
+  - {type: xml-element, offset: 541, content: '', id: KR3l0090_tls_008-bkkxmlele43}
+  - {type: xml-element, offset: 541, content: '', id: KR3l0090_tls_008-bkkxmlele44}
+  - {type: 'tls:seg', offset: 541, content: '', id: KR3l0090_tls_008-21a.2}
+  - {type: variant, offset: 543, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 543, length: 1, content: 內, krp: 内}
+  - {type: punctuation, offset: 546, content: ，, id: KR3l0090_tls_008-bkkpn122}
+  - {type: 'tls:seg', offset: 546, content: '', id: KR3l0090_tls_008-21a.3}
+  - {type: punctuation, offset: 550, content: ，, id: KR3l0090_tls_008-bkkpn123}
+  - {type: 'tls:seg', offset: 550, content: '', id: KR3l0090_tls_008-21a.4}
+  - {type: punctuation, offset: 554, content: 。, id: KR3l0090_tls_008-bkkpn124}
+  - {type: 'tls:seg', offset: 554, content: '', id: KR3l0090_tls_008-21a.5}
+  - {type: variant, offset: 554, length: 0, content: '', WYG: 陶塗兩音見爾雅}
+  - {type: variant, offset: 554, length: 0, content: '', krp: 陶塗兩音見爾雅}
+  - {type: punctuation, offset: 557, content: ，, id: KR3l0090_tls_008-bkkpn125}
+  - {type: 'tls:seg', offset: 557, content: '', id: KR3l0090_tls_008-21a.6}
+  - {type: page-break, offset: 558, content: '', id: KR3l0090_WYG_008-4a, image: WYG1042/WYG1042-0060a.png}
+  - {type: punctuation, offset: 561, content: ，, id: KR3l0090_tls_008-bkkpn126}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR3l0090_tls_008-21a.7}
+  - {type: punctuation, offset: 565, content: ，, id: KR3l0090_tls_008-bkkpn127}
+  - {type: 'tls:seg', offset: 565, content: '', id: KR3l0090_tls_008-21a.8}
+  - {type: punctuation, offset: 567, content: ，, id: KR3l0090_tls_008-bkkpn128}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR3l0090_tls_008-21a.9}
+  - {type: punctuation, offset: 570, content: 。, id: KR3l0090_tls_008-bkkpn129}
+  - {type: 'tls:seg', offset: 570, content: '', id: KR3l0090_tls_008-21a.10}
+  - {type: variant, offset: 570, length: 0, content: '', WYG: 周書曰義渠兹白兹白若白馬鋸牙食虎豹按此二説與爾雅同}
+  - {type: variant, offset: 570, length: 0, content: '', krp: 周書曰義渠兹白兹白若白馬鋸牙食虎豹按此二説與爾雅同}
+  - {type: punctuation, offset: 574, content: ，, id: KR3l0090_tls_008-bkkpn130}
+  - {type: 'tls:seg', offset: 574, content: '', id: KR3l0090_tls_008-21a.11}
+  - {type: punctuation, offset: 577, content: ，, id: KR3l0090_tls_008-bkkpn131}
+  - {type: 'tls:seg', offset: 577, content: '', id: KR3l0090_tls_008-21a.12}
+  - {type: punctuation, offset: 581, content: 。, id: KR3l0090_tls_008-bkkpn132}
+  - {type: 'tls:seg', offset: 581, content: '', id: KR3l0090_tls_008-21a.13}
+  - {type: variant, offset: 581, length: 0, content: '', WYG: 即蛩蛩鉅虚也一走百里見穆天子傳音卭}
+  - {type: variant, offset: 581, length: 0, content: '', krp: 即蛩蛩鉅虚也一走百里見穆天子傳音卭}
+  - {type: punctuation, offset: 585, content: ，, id: KR3l0090_tls_008-bkkpn133}
+  - {type: 'tls:seg', offset: 585, content: '', id: KR3l0090_tls_008-21a.14}
+  - {type: punctuation, offset: 588, content: ，, id: KR3l0090_tls_008-bkkpn134}
+  - {type: 'tls:seg', offset: 588, content: '', id: KR3l0090_tls_008-21a.15}
+  - {type: punctuation, offset: 592, content: 。, id: KR3l0090_tls_008-bkkpn135}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR3l0090_tls_008-22a.1}
+  - {type: xml-element, offset: 592, content: '', id: KR3l0090_tls_008-bkkxmlele45}
+  - {type: xml-element, offset: 592, content: '', id: KR3l0090_tls_008-bkkxmlele46}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR3l0090_tls_008-22a.2}
+  - {type: punctuation, offset: 596, content: ，, id: KR3l0090_tls_008-bkkpn136}
+  - {type: 'tls:seg', offset: 596, content: '', id: KR3l0090_tls_008-22a.3}
+  - {type: punctuation, offset: 600, content: ，, id: KR3l0090_tls_008-bkkpn137}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR3l0090_tls_008-22a.4}
+  - {type: punctuation, offset: 604, content: ，, id: KR3l0090_tls_008-bkkpn138}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR3l0090_tls_008-22a.5}
+  - {type: punctuation, offset: 608, content: 。, id: KR3l0090_tls_008-bkkpn139}
+  - {type: xml-element, offset: 608, content: '', id: KR3l0090_tls_008-bkkxmlele47}
+  - {type: xml-element, offset: 608, content: '', id: KR3l0090_tls_008-bkkxmlele48}
+  - {type: variant, offset: 608, length: 0, content: '', WYG: 字𤣥􅁳水神也莊周曰禺彊立於北極一曰禺京一本云北方禺彊黒身手足乘兩龍山海經卷八}
+  - {type: page-break, offset: 608, content: '', id: KR3l0090_WYG_008-4b, image: WYG1042/WYG1042-0060b.png}
+  - {type: variant, offset: 608, length: 0, content: '', krp: 字𤣥冥水神也莊周曰禺彊立於北極一曰禺京一本云北方禺彊黒身手足乘兩龍山海經卷八}
+  back: []
+hash: sha256:f4d45f2699d3ee4662c969e921a85927776027657d3ec246776419b2190d9a92

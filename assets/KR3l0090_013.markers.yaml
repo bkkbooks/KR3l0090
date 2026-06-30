@@ -1,0 +1,506 @@
+canonical_identifier: bkk:krp/KR3l0090/bkk/v1/markers/13
+seq: 13
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書山}
+  - {type: page-break, offset: 0, content: '', id: KR3l0090_WYG_013-1a, image: WYG1042/WYG1042-0067c.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書山}
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3l0090_tls_013-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR3l0090_tls_013-bkkxmlele1}
+  - {type: variant, offset: 1, length: 1, content: 內, WYG: 經卷十三晉郭璞撰海内}
+  - {type: variant, offset: 1, length: 1, content: 內, krp: 經卷十三晉郭璞撰海内}
+  - {type: variant, offset: 4, length: 3, content: 第十三, WYG: ''}
+  - {type: variant, offset: 4, length: 3, content: 第十三, krp: ''}
+  - {type: xml-element, offset: 7, content: '', id: KR3l0090_tls_013-bkkxmlele2}
+  - {type: xml-element, offset: 7, content: '', id: KR3l0090_tls_013-bkkxmlele3}
+  - {type: xml-element, offset: 7, content: '', id: KR3l0090_tls_013-bkkxmlele4}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3l0090_tls_013-1a.3}
+  - {type: variant, offset: 8, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 8, length: 1, content: 內, krp: 内}
+  - {type: punctuation, offset: 15, content: 。, id: KR3l0090_tls_013-bkkpn1}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3l0090_tls_013-2a.1}
+  - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele5}
+  - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele6}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3l0090_tls_013-2a.2}
+  - {type: substitution, offset: 15, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: punctuation, offset: 21, content: 。, id: KR3l0090_tls_013-bkkpn2}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3l0090_tls_013-3a.1}
+  - {type: xml-element, offset: 21, content: '', id: KR3l0090_tls_013-bkkxmlele7}
+  - {type: xml-element, offset: 21, content: '', id: KR3l0090_tls_013-bkkxmlele8}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3l0090_tls_013-3a.2}
+  - {type: punctuation, offset: 29, content: 、, id: KR3l0090_tls_013-bkkpn3}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3l0090_tls_013-3a.3}
+  - {type: punctuation, offset: 31, content: ，, id: KR3l0090_tls_013-bkkpn4}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR3l0090_tls_013-3a.4}
+  - {type: variant, offset: 31, length: 0, content: '', WYG: 埻音墩㬇音㬇或作繭㬉}
+  - {type: variant, offset: 31, length: 0, content: '', krp: 埻音墩㬇音㬇或作繭㬉}
+  - {type: variant, offset: 34, length: 1, content: 虛, WYG: 虚}
+  - {type: variant, offset: 34, length: 1, content: 虛, krp: 虚}
+  - {type: punctuation, offset: 37, content: 。, id: KR3l0090_tls_013-bkkpn5}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3l0090_tls_013-3a.5}
+  - {type: variant, offset: 40, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 40, length: 1, content: 內, krp: 内}
+  - {type: punctuation, offset: 43, content: ，, id: KR3l0090_tls_013-bkkpn6}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3l0090_tls_013-3a.6}
+  - {type: punctuation, offset: 47, content: ，, id: KR3l0090_tls_013-bkkpn7}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3l0090_tls_013-3a.7}
+  - {type: punctuation, offset: 51, content: 。, id: KR3l0090_tls_013-bkkpn8}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3l0090_tls_013-4a.1}
+  - {type: xml-element, offset: 51, content: '', id: KR3l0090_tls_013-bkkxmlele9}
+  - {type: xml-element, offset: 51, content: '', id: KR3l0090_tls_013-bkkxmlele10}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3l0090_tls_013-4a.2}
+  - {type: page-break, offset: 51, content: '', id: KR3l0090_WYG_013-1b, image: WYG1042/WYG1042-0067d.png}
+  - {type: punctuation, offset: 57, content: ，, id: KR3l0090_tls_013-bkkpn9}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3l0090_tls_013-4a.3}
+  - {type: punctuation, offset: 59, content: 、, id: KR3l0090_tls_013-bkkpn10}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3l0090_tls_013-4a.4}
+  - {type: variant, offset: 59, length: 1, content: 豎, WYG: 大夏國城方二三百里分為數十國地和温宜五榖竪}
+  - {type: variant, offset: 59, length: 1, content: 豎, krp: 大夏國城方二三百里分為數十國地和温宜五榖竪}
+  - {type: punctuation, offset: 61, content: 、, id: KR3l0090_tls_013-bkkpn11}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3l0090_tls_013-4a.5}
+  - {type: punctuation, offset: 63, content: 、, id: KR3l0090_tls_013-bkkpn12}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR3l0090_tls_013-4a.6}
+  - {type: punctuation, offset: 67, content: 。, id: KR3l0090_tls_013-bkkpn13}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR3l0090_tls_013-5a.1}
+  - {type: xml-element, offset: 67, content: '', id: KR3l0090_tls_013-bkkxmlele11}
+  - {type: xml-element, offset: 67, content: '', id: KR3l0090_tls_013-bkkxmlele12}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR3l0090_tls_013-5a.2}
+  - {type: variant, offset: 67, length: 0, content: '', WYG: 月支國多好馬美果有大尾羊如驢尾即羬羊也小月支天竺國皆附庸云繇音遥}
+  - {type: variant, offset: 67, length: 0, content: '', krp: 月支國多好馬美果有大尾羊如驢尾即羬羊也小月支天竺國皆附庸云繇音遥}
+  - {type: punctuation, offset: 72, content: ，, id: KR3l0090_tls_013-bkkpn14}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3l0090_tls_013-5a.3}
+  - {type: punctuation, offset: 76, content: ，, id: KR3l0090_tls_013-bkkpn15}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3l0090_tls_013-5a.4}
+  - {type: punctuation, offset: 84, content: ，, id: KR3l0090_tls_013-bkkpn16}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3l0090_tls_013-5a.5}
+  - {type: punctuation, offset: 89, content: ，, id: KR3l0090_tls_013-bkkpn17}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3l0090_tls_013-5a.6}
+  - {type: variant, offset: 91, length: 1, content: 虛, WYG: 虚}
+  - {type: variant, offset: 91, length: 1, content: 虛, krp: 虚}
+  - {type: punctuation, offset: 94, content: 。, id: KR3l0090_tls_013-bkkpn18}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3l0090_tls_013-5a.7}
+  - {type: punctuation, offset: 101, content: ，, id: KR3l0090_tls_013-bkkpn19}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3l0090_tls_013-5a.8}
+  - {type: punctuation, offset: 105, content: 。, id: KR3l0090_tls_013-bkkpn20}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3l0090_tls_013-6a.1}
+  - {type: xml-element, offset: 105, content: '', id: KR3l0090_tls_013-bkkxmlele13}
+  - {type: xml-element, offset: 105, content: '', id: KR3l0090_tls_013-bkkxmlele14}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3l0090_tls_013-6a.2}
+  - {type: variant, offset: 105, length: 0, content: '', WYG: 地理志崑崙山在臨羗西又有西王母祠也}
+  - {type: variant, offset: 105, length: 0, content: '', krp: 地理志崑崙山在臨羗西又有西王母祠也}
+  - {type: punctuation, offset: 111, content: ，, id: KR3l0090_tls_013-bkkpn21}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR3l0090_tls_013-6a.3}
+  - {type: punctuation, offset: 116, content: ，, id: KR3l0090_tls_013-bkkpn22}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR3l0090_tls_013-6a.4}
+  - {type: punctuation, offset: 119, content: 。, id: KR3l0090_tls_013-bkkpn23}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3l0090_tls_013-6a.5}
+  - {type: punctuation, offset: 122, content: 。, id: KR3l0090_tls_013-bkkpn24}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3l0090_tls_013-7a.1}
+  - {type: xml-element, offset: 122, content: '', id: KR3l0090_tls_013-bkkxmlele15}
+  - {type: xml-element, offset: 122, content: '', id: KR3l0090_tls_013-bkkxmlele16}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3l0090_tls_013-7a.2}
+  - {type: variant, offset: 122, length: 0, content: '', WYG: 今城陽有堯冡靈臺雷澤在北也河圖曰大迹在雷澤華胥􅂂之而生伏羲}
+  - {type: variant, offset: 122, length: 0, content: '', krp: 今城陽有堯冡靈臺雷澤在北也河圖曰大迹在雷澤華胥履之而生伏羲}
+  - {type: punctuation, offset: 127, content: 。, id: KR3l0090_tls_013-bkkpn25}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3l0090_tls_013-7a.3}
+  - {type: punctuation, offset: 131, content: 。, id: KR3l0090_tls_013-bkkpn26}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3l0090_tls_013-8a.1}
+  - {type: xml-element, offset: 131, content: '', id: KR3l0090_tls_013-bkkxmlele17}
+  - {type: xml-element, offset: 131, content: '', id: KR3l0090_tls_013-bkkxmlele18}
+  - {type: 'tls:seg', offset: 131, content: '', id: KR3l0090_tls_013-8a.2}
+  - {type: variant, offset: 131, length: 0, content: '', WYG: 今在東海昫縣界世傳此山自蒼梧從南徙來上皆有南方物也郁音欝}
+  - {type: page-break, offset: 131, content: '', id: KR3l0090_WYG_013-2a, image: WYG1042/WYG1042-0068a.png}
+  - {type: variant, offset: 131, length: 0, content: '', krp: 今在東海昫縣界世傳此山自蒼梧從南徙來上皆有南方物也郁音欝}
+  - {type: variant, offset: 132, length: 1, content: 㖿, WYG: 琊}
+  - {type: variant, offset: 132, length: 1, content: 㖿, krp: 琊}
+  - {type: punctuation, offset: 138, content: ，, id: KR3l0090_tls_013-bkkpn27}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR3l0090_tls_013-8a.3}
+  - {type: variant, offset: 139, length: 1, content: 㖿, WYG: 琊}
+  - {type: variant, offset: 139, length: 1, content: 㖿, krp: 琊}
+  - {type: punctuation, offset: 142, content: 。, id: KR3l0090_tls_013-bkkpn28}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3l0090_tls_013-8a.4}
+  - {type: variant, offset: 142, length: 0, content: '', WYG: 今琅琊在海邊有山嶣堯特起狀如髙臺此即琅琊臺也琅琊者越王勾踐入霸中國之所都}
+  - {type: variant, offset: 142, length: 0, content: '', krp: 今琅琊在海邊有山嶣堯特起狀如髙臺此即琅琊臺也琅琊者越王勾踐入霸中國之所都}
+  - {type: punctuation, offset: 146, content: 。, id: KR3l0090_tls_013-bkkpn29}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3l0090_tls_013-8a.5}
+  - {type: punctuation, offset: 151, content: 。, id: KR3l0090_tls_013-bkkpn30}
+  - {type: 'tls:seg', offset: 151, content: '', id: KR3l0090_tls_013-9a.1}
+  - {type: xml-element, offset: 151, content: '', id: KR3l0090_tls_013-bkkxmlele19}
+  - {type: xml-element, offset: 151, content: '', id: KR3l0090_tls_013-bkkxmlele20}
+  - {type: 'tls:seg', offset: 151, content: '', id: KR3l0090_tls_013-9a.2}
+  - {type: punctuation, offset: 156, content: ，, id: KR3l0090_tls_013-bkkpn31}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3l0090_tls_013-9a.3}
+  - {type: punctuation, offset: 159, content: 。, id: KR3l0090_tls_013-bkkpn32}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3l0090_tls_013-10a.1}
+  - {type: xml-element, offset: 159, content: '', id: KR3l0090_tls_013-bkkxmlele21}
+  - {type: xml-element, offset: 159, content: '', id: KR3l0090_tls_013-bkkxmlele22}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3l0090_tls_013-10a.2}
+  - {type: punctuation, offset: 164, content: ，, id: KR3l0090_tls_013-bkkpn33}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3l0090_tls_013-10a.3}
+  - {type: variant, offset: 164, length: 1, content: 韓, WYG: 轅}
+  - {type: variant, offset: 164, length: 1, content: 韓, krp: 轅}
+  - {type: variant, offset: 165, length: 1, content: 鴈, WYG: 厲}
+  - {type: variant, offset: 165, length: 1, content: 鴈, krp: 厲}
+  - {type: punctuation, offset: 167, content: 。, id: KR3l0090_tls_013-bkkpn34}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR3l0090_tls_013-11a.1}
+  - {type: xml-element, offset: 167, content: '', id: KR3l0090_tls_013-bkkxmlele23}
+  - {type: xml-element, offset: 167, content: '', id: KR3l0090_tls_013-bkkxmlele24}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR3l0090_tls_013-11a.2}
+  - {type: variant, offset: 167, length: 1, content: 會, WYG: 國名或曰鳥名也㑹}
+  - {type: variant, offset: 167, length: 1, content: 會, krp: 國名或曰鳥名也㑹}
+  - {type: variant, offset: 169, length: 1, content: 山, WYG: ''}
+  - {type: variant, offset: 169, length: 1, content: 山, krp: ''}
+  - {type: punctuation, offset: 174, content: 。, id: KR3l0090_tls_013-bkkpn35}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3l0090_tls_013-12a.1}
+  - {type: xml-element, offset: 174, content: '', id: KR3l0090_tls_013-bkkxmlele25}
+  - {type: xml-element, offset: 174, content: '', id: KR3l0090_tls_013-bkkxmlele26}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3l0090_tls_013-12a.2}
+  - {type: punctuation, offset: 177, content: ：, id: KR3l0090_tls_013-bkkpn36}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR3l0090_tls_013-12a.3}
+  - {type: punctuation, offset: 178, content: …, id: KR3l0090_tls_013-bkkpn37}
+  - {type: punctuation, offset: 183, content: ，, id: KR3l0090_tls_013-bkkpn38}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR3l0090_tls_013-12a.4}
+  - {type: variant, offset: 183, length: 0, content: '', WYG: 今江出汶山郡升遷縣岷山東南經蜀郡犍為至江陽東北經巴東建平宜都南郡江夏弋陽安豐至廬江南界東北經淮南下邳至廣陵郡入海}
+  - {type: variant, offset: 183, length: 0, content: '', krp: 今江出汶山郡升遷縣岷山東南經蜀郡犍為至江陽東北經巴東建平宜都南郡江夏弋陽安豐至廬江南界東北經淮南下邳至廣陵郡入海}
+  - {type: punctuation, offset: 188, content: ，, id: KR3l0090_tls_013-bkkpn39}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR3l0090_tls_013-12a.5}
+  - {type: page-break, offset: 192, content: '', id: KR3l0090_WYG_013-2b, image: WYG1042/WYG1042-0068b.png}
+  - {type: punctuation, offset: 193, content: 。, id: KR3l0090_tls_013-bkkpn40}
+  - {type: 'tls:seg', offset: 193, content: '', id: KR3l0090_tls_013-12a.6}
+  - {type: variant, offset: 193, length: 1, content: 高, WYG: 髙}
+  - {type: variant, offset: 193, length: 1, content: 高, krp: 髙}
+  - {type: variant, offset: 196, length: 1, content: 成, WYG: 城}
+  - {type: variant, offset: 196, length: 1, content: 成, krp: 城}
+  - {type: punctuation, offset: 199, content: 。, id: KR3l0090_tls_013-bkkpn41}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3l0090_tls_013-12a.7}
+  - {type: punctuation, offset: 201, content: ，, id: KR3l0090_tls_013-bkkpn42}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3l0090_tls_013-12a.8}
+  - {type: punctuation, offset: 205, content: 。, id: KR3l0090_tls_013-bkkpn43}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR3l0090_tls_013-12a.9}
+  - {type: punctuation, offset: 212, content: ，, id: KR3l0090_tls_013-bkkpn44}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR3l0090_tls_013-12a.10}
+  - {type: variant, offset: 213, length: 0, content: '', WYG: 其東按地理志浙江出新安黟縣南}
+  - {type: variant, offset: 213, length: 0, content: '', krp: 其東按地理志浙江出新安黟縣南}
+  - {type: variant, offset: 214, length: 0, content: '', WYG: 中}
+  - {type: variant, offset: 214, length: 0, content: '', krp: 中}
+  - {type: punctuation, offset: 215, content: 。, id: KR3l0090_tls_013-bkkpn45}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR3l0090_tls_013-12a.11}
+  - {type: variant, offset: 215, length: 0, content: '', WYG: 入海今錢塘浙江是也黟即歙也浙音折}
+  - {type: variant, offset: 215, length: 0, content: '', krp: 入海今錢塘浙江是也黟即歙也浙音折}
+  - {type: punctuation, offset: 219, content: ，, id: KR3l0090_tls_013-bkkpn46}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3l0090_tls_013-12a.12}
+  - {type: punctuation, offset: 221, content: ，, id: KR3l0090_tls_013-bkkpn47}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3l0090_tls_013-12a.13}
+  - {type: punctuation, offset: 224, content: 。, id: KR3l0090_tls_013-bkkpn48}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3l0090_tls_013-12a.14}
+  - {type: variant, offset: 224, length: 0, content: '', WYG: 餘暨縣屬㑹稽今為永興縣}
+  - {type: variant, offset: 224, length: 0, content: '', krp: 餘暨縣屬㑹稽今為永興縣}
+  - {type: punctuation, offset: 231, content: ，, id: KR3l0090_tls_013-bkkpn49}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3l0090_tls_013-12a.15}
+  - {type: punctuation, offset: 233, content: ，, id: KR3l0090_tls_013-bkkpn50}
+  - {type: 'tls:seg', offset: 233, content: '', id: KR3l0090_tls_013-12a.16}
+  - {type: punctuation, offset: 236, content: 。, id: KR3l0090_tls_013-bkkpn51}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR3l0090_tls_013-12a.17}
+  - {type: variant, offset: 236, length: 0, content: '', WYG: 彭澤今彭蠡也在尋陽彭澤縣}
+  - {type: variant, offset: 236, length: 0, content: '', krp: 彭澤今彭蠡也在尋陽彭澤縣}
+  - {type: punctuation, offset: 241, content: 。, id: KR3l0090_tls_013-bkkpn52}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR3l0090_tls_013-12a.18}
+  - {type: punctuation, offset: 246, content: ，, id: KR3l0090_tls_013-bkkpn53}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3l0090_tls_013-12a.19}
+  - {type: punctuation, offset: 252, content: ，, id: KR3l0090_tls_013-bkkpn54}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR3l0090_tls_013-12a.20}
+  - {type: punctuation, offset: 255, content: ，, id: KR3l0090_tls_013-bkkpn55}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR3l0090_tls_013-12a.21}
+  - {type: punctuation, offset: 257, content: ，, id: KR3l0090_tls_013-bkkpn56}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR3l0090_tls_013-12a.22}
+  - {type: punctuation, offset: 260, content: 。, id: KR3l0090_tls_013-bkkpn57}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3l0090_tls_013-12a.23}
+  - {type: variant, offset: 260, length: 0, content: '', WYG: 今淮水出義陽平氏縣桐栢山山東北經汝南汝隂淮南譙國下邳至廣陵縣入海朝陽縣今属新野}
+  - {type: variant, offset: 260, length: 0, content: '', krp: 今淮水出義陽平氏縣桐栢山山東北經汝南汝隂淮南譙國下邳至廣陵縣入海朝陽縣今属新野}
+  - {type: variant, offset: 264, length: 1, content: 葬, WYG: 𦵏}
+  - {type: variant, offset: 264, length: 1, content: 葬, krp: 𦵏}
+  - {type: punctuation, offset: 268, content: ，, id: KR3l0090_tls_013-bkkpn58}
+  - {type: 'tls:seg', offset: 268, content: '', id: KR3l0090_tls_013-12a.24}
+  - {type: punctuation, offset: 271, content: 。, id: KR3l0090_tls_013-bkkpn59}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3l0090_tls_013-12a.25}
+  - {type: variant, offset: 271, length: 0, content: '', WYG: 環繞也今湘水出零陵之營道縣陽湖山入于江}
+  - {type: page-break, offset: 271, content: '', id: KR3l0090_WYG_013-3a, image: WYG1042/WYG1042-0068c.png}
+  - {type: variant, offset: 271, length: 0, content: '', krp: 環繞也今湘水出零陵之營道縣陽湖山入于江}
+  - {type: punctuation, offset: 275, content: 。, id: KR3l0090_tls_013-bkkpn60}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR3l0090_tls_013-12a.26}
+  - {type: variant, offset: 275, length: 0, content: '', WYG: 洞庭地穴也在長沙巴陵今吴縣南大湖中有包山下有洞庭穴道潛行水底云無所不通號為地脉}
+  - {type: variant, offset: 275, length: 0, content: '', krp: 洞庭地穴也在長沙巴陵今吴縣南大湖中有包山下有洞庭穴道潛行水底云無所不通號為地脉}
+  - {type: punctuation, offset: 281, content: 。, id: KR3l0090_tls_013-bkkpn61}
+  - {type: 'tls:seg', offset: 281, content: '', id: KR3l0090_tls_013-12a.27}
+  - {type: punctuation, offset: 288, content: ，, id: KR3l0090_tls_013-bkkpn62}
+  - {type: 'tls:seg', offset: 288, content: '', id: KR3l0090_tls_013-12a.28}
+  - {type: variant, offset: 288, length: 0, content: '', WYG: 書曰􅡙冡導漾東流為漢按水經漢水出武都沮縣東狼谷經漢中魏興至南鄉東經㐮陽至江夏安陸縣入江别為沔水又為滄浪之水}
+  - {type: variant, offset: 288, length: 0, content: '', krp: 書曰𡺸冡導漾東流為漢按水經漢水出武都沮縣東狼谷經漢中魏興至南鄉東經㐮陽至江夏安陸縣入江别為沔水又為滄浪之水}
+  - {type: variant, offset: 291, length: 1, content: 葬, WYG: 𦵏}
+  - {type: variant, offset: 291, length: 1, content: 葬, krp: 𦵏}
+  - {type: punctuation, offset: 294, content: ，, id: KR3l0090_tls_013-bkkpn63}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR3l0090_tls_013-12a.29}
+  - {type: variant, offset: 296, length: 1, content: 葬, WYG: 𦵏}
+  - {type: variant, offset: 296, length: 1, content: 葬, krp: 𦵏}
+  - {type: variant, offset: 298, length: 1, content: 陰, WYG: 隂}
+  - {type: variant, offset: 298, length: 1, content: 陰, krp: 隂}
+  - {type: punctuation, offset: 299, content: ，, id: KR3l0090_tls_013-bkkpn64}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR3l0090_tls_013-12a.30}
+  - {type: punctuation, offset: 303, content: 。, id: KR3l0090_tls_013-bkkpn65}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR3l0090_tls_013-12a.31}
+  - {type: variant, offset: 303, length: 0, content: '', WYG: 言有四蛇衛守山下}
+  - {type: variant, offset: 303, length: 0, content: '', krp: 言有四蛇衛守山下}
+  - {type: punctuation, offset: 309, content: ，, id: KR3l0090_tls_013-bkkpn66}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3l0090_tls_013-12a.32}
+  - {type: punctuation, offset: 311, content: ，, id: KR3l0090_tls_013-bkkpn67}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR3l0090_tls_013-12a.33}
+  - {type: punctuation, offset: 314, content: 。, id: KR3l0090_tls_013-bkkpn68}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3l0090_tls_013-12a.34}
+  - {type: variant, offset: 314, length: 1, content: 溫, WYG: 漢陽縣屬朱提温}
+  - {type: variant, offset: 314, length: 1, content: 溫, krp: 漢陽縣屬朱提温}
+  - {type: variant, offset: 317, length: 2, content: 崆峒, WYG: ''}
+  - {type: variant, offset: 317, length: 2, content: 崆峒, krp: ''}
+  - {type: punctuation, offset: 319, content: ，, id: KR3l0090_tls_013-bkkpn69}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3l0090_tls_013-12a.35}
+  - {type: punctuation, offset: 326, content: ，, id: KR3l0090_tls_013-bkkpn70}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR3l0090_tls_013-12a.36}
+  - {type: punctuation, offset: 328, content: ，, id: KR3l0090_tls_013-bkkpn71}
+  - {type: 'tls:seg', offset: 328, content: '', id: KR3l0090_tls_013-12a.37}
+  - {type: punctuation, offset: 331, content: 。, id: KR3l0090_tls_013-bkkpn72}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR3l0090_tls_013-12a.38}
+  - {type: variant, offset: 331, length: 0, content: '', WYG: 今温水在京兆隂盤縣水常温也臨汾縣属平陽}
+  - {type: page-break, offset: 331, content: '', id: KR3l0090_WYG_013-3b, image: WYG1042/WYG1042-0068d.png}
+  - {type: variant, offset: 331, length: 0, content: '', krp: 今温水在京兆隂盤縣水常温也臨汾縣属平陽}
+  - {type: punctuation, offset: 336, content: ，, id: KR3l0090_tls_013-bkkpn73}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR3l0090_tls_013-12a.39}
+  - {type: punctuation, offset: 343, content: ，, id: KR3l0090_tls_013-bkkpn74}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR3l0090_tls_013-12a.40}
+  - {type: punctuation, offset: 348, content: 。, id: KR3l0090_tls_013-bkkpn75}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR3l0090_tls_013-12a.41}
+  - {type: variant, offset: 348, length: 0, content: '', WYG: 今潁水出河南陽城縣乾山東南經潁川汝隂至淮南下蔡入淮鄢今鄢陵縣属潁川}
+  - {type: variant, offset: 348, length: 0, content: '', krp: 今潁水出河南陽城縣乾山東南經潁川汝隂至淮南下蔡入淮鄢今鄢陵縣属潁川}
+  - {type: punctuation, offset: 352, content: 。, id: KR3l0090_tls_013-bkkpn76}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR3l0090_tls_013-12a.42}
+  - {type: variant, offset: 352, length: 0, content: '', WYG: 縣属河南音鈎}
+  - {type: variant, offset: 352, length: 0, content: '', krp: 縣属河南音鈎}
+  - {type: punctuation, offset: 358, content: ，, id: KR3l0090_tls_013-bkkpn77}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR3l0090_tls_013-12a.43}
+  - {type: punctuation, offset: 364, content: ，, id: KR3l0090_tls_013-bkkpn78}
+  - {type: 'tls:seg', offset: 364, content: '', id: KR3l0090_tls_013-12a.44}
+  - {type: punctuation, offset: 369, content: 。, id: KR3l0090_tls_013-bkkpn79}
+  - {type: 'tls:seg', offset: 369, content: '', id: KR3l0090_tls_013-12a.45}
+  - {type: variant, offset: 369, length: 0, content: '', WYG: 今汝水出南陽晋陽縣大孟山東北至河南梁縣東南經襄城潁川汝南至汝隂褒信縣入淮淮極地名}
+  - {type: variant, offset: 369, length: 0, content: '', krp: 今汝水出南陽晋陽縣大孟山東北至河南梁縣東南經襄城潁川汝南至汝隂褒信縣入淮淮極地名}
+  - {type: punctuation, offset: 376, content: 。, id: KR3l0090_tls_013-bkkpn80}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR3l0090_tls_013-12a.46}
+  - {type: variant, offset: 376, length: 0, content: '', WYG: 期思縣属弋陽}
+  - {type: variant, offset: 376, length: 0, content: '', krp: 期思縣属弋陽}
+  - {type: punctuation, offset: 383, content: ，, id: KR3l0090_tls_013-bkkpn81}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR3l0090_tls_013-12a.47}
+  - {type: variant, offset: 386, length: 1, content: 郅, WYG: 致}
+  - {type: variant, offset: 386, length: 1, content: 郅, krp: 致}
+  - {type: punctuation, offset: 390, content: ，, id: KR3l0090_tls_013-bkkpn82}
+  - {type: 'tls:seg', offset: 390, content: '', id: KR3l0090_tls_013-12a.48}
+  - {type: variant, offset: 390, length: 0, content: '', WYG: 皆縣名也郅音桎}
+  - {type: variant, offset: 390, length: 0, content: '', krp: 皆縣名也郅音桎}
+  - {type: punctuation, offset: 393, content: ，, id: KR3l0090_tls_013-bkkpn83}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR3l0090_tls_013-12a.49}
+  - {type: punctuation, offset: 395, content: 。, id: KR3l0090_tls_013-bkkpn84}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR3l0090_tls_013-12a.50}
+  - {type: variant, offset: 395, length: 0, content: '', WYG: 今涇水出安定朝縣西笄頭山東南經新平扶風至京兆高陵縣入渭戯地名今新豐縣也}
+  - {type: variant, offset: 395, length: 0, content: '', krp: 今涇水出安定朝縣西笄頭山東南經新平扶風至京兆高陵縣入渭戯地名今新豐縣也}
+  - {type: variant, offset: 399, length: 1, content: 鼠, WYG: 䑕}
+  - {type: variant, offset: 399, length: 1, content: 鼠, krp: 䑕}
+  - {type: punctuation, offset: 403, content: ，, id: KR3l0090_tls_013-bkkpn85}
+  - {type: 'tls:seg', offset: 403, content: '', id: KR3l0090_tls_013-12a.51}
+  - {type: punctuation, offset: 406, content: ，, id: KR3l0090_tls_013-bkkpn86}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR3l0090_tls_013-12a.52}
+  - {type: variant, offset: 408, length: 1, content: 陰, WYG: 隂}
+  - {type: variant, offset: 408, length: 1, content: 陰, krp: 隂}
+  - {type: punctuation, offset: 410, content: 。, id: KR3l0090_tls_013-bkkpn87}
+  - {type: 'tls:seg', offset: 410, content: '', id: KR3l0090_tls_013-12a.53}
+  - {type: variant, offset: 410, length: 0, content: '', WYG: 鳥鼠同穴山今在隴西首陽縣渭水出其東經南安天水畧陽扶風始平京兆𢎞農華隂縣入河}
+  - {type: page-break, offset: 410, content: '', id: KR3l0090_WYG_013-4a, image: WYG1042/WYG1042-0069a.png}
+  - {type: variant, offset: 410, length: 0, content: '', krp: 鳥鼠同穴山今在隴西首陽縣渭水出其東經南安天水畧陽扶風始平京兆𢎞農華隂縣入河}
+  - {type: punctuation, offset: 414, content: ，, id: KR3l0090_tls_013-bkkpn88}
+  - {type: 'tls:seg', offset: 414, content: '', id: KR3l0090_tls_013-12a.54}
+  - {type: punctuation, offset: 419, content: ，, id: KR3l0090_tls_013-bkkpn89}
+  - {type: 'tls:seg', offset: 419, content: '', id: KR3l0090_tls_013-12a.55}
+  - {type: variant, offset: 419, length: 0, content: '', WYG: 色㣲白濁今在梓潼白水縣源從臨洮之西西傾山来經沓中東流通隂平至漢夀縣入潛}
+  - {type: variant, offset: 419, length: 0, content: '', krp: 色㣲白濁今在梓潼白水縣源從臨洮之西西傾山来經沓中東流通隂平至漢夀縣入潛}
+  - {type: punctuation, offset: 424, content: 。, id: KR3l0090_tls_013-bkkpn90}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3l0090_tls_013-12a.56}
+  - {type: variant, offset: 424, length: 0, content: '', WYG: 江州縣属巴郡}
+  - {type: variant, offset: 424, length: 0, content: '', krp: 江州縣属巴郡}
+  - {type: variant, offset: 426, length: 0, content: '', WYG: 山}
+  - {type: variant, offset: 426, length: 0, content: '', krp: 山}
+  - {type: variant, offset: 427, length: 1, content: 象, WYG: 𧰼}
+  - {type: variant, offset: 427, length: 1, content: 象, krp: 𧰼}
+  - {type: punctuation, offset: 432, content: ，, id: KR3l0090_tls_013-bkkpn91}
+  - {type: 'tls:seg', offset: 432, content: '', id: KR3l0090_tls_013-12a.57}
+  - {type: variant, offset: 432, length: 0, content: '', WYG: 象郡今日南也鐔城縣今属武陵音尋入}
+  - {type: variant, offset: 432, length: 0, content: '', krp: 象郡今日南也鐔城縣今属武陵音尋入}
+  - {type: punctuation, offset: 435, content: ，, id: KR3l0090_tls_013-bkkpn92}
+  - {type: 'tls:seg', offset: 435, content: '', id: KR3l0090_tls_013-12a.58}
+  - {type: punctuation, offset: 439, content: ，, id: KR3l0090_tls_013-bkkpn93}
+  - {type: 'tls:seg', offset: 439, content: '', id: KR3l0090_tls_013-12a.59}
+  - {type: variant, offset: 439, length: 0, content: '', WYG: 下雋縣今属長沙音昨䆒反}
+  - {type: variant, offset: 439, length: 0, content: '', krp: 下雋縣今属長沙音昨䆒反}
+  - {type: punctuation, offset: 443, content: 。, id: KR3l0090_tls_013-bkkpn94}
+  - {type: 'tls:seg', offset: 443, content: '', id: KR3l0090_tls_013-12a.60}
+  - {type: variant, offset: 443, length: 1, content: 贛, WYG: 水經曰沅水出牂牁且蘭縣又東北至鐔城縣為沅水又東過臨沅縣南又東至長沙下雋縣贑}
+  - {type: variant, offset: 443, length: 1, content: 贛, krp: 水經曰沅水出牂牁且蘭縣又東北至鐔城縣為沅水又東過臨沅縣南又東至長沙下雋縣贑}
+  - {type: punctuation, offset: 450, content: ，, id: KR3l0090_tls_013-bkkpn95}
+  - {type: 'tls:seg', offset: 450, content: '', id: KR3l0090_tls_013-12a.61}
+  - {type: variant, offset: 450, length: 0, content: '', WYG: 今贑水出南康南野縣西北音感}
+  - {type: variant, offset: 450, length: 0, content: '', krp: 今贑水出南康南野縣西北音感}
+  - {type: punctuation, offset: 454, content: ，, id: KR3l0090_tls_013-bkkpn96}
+  - {type: 'tls:seg', offset: 454, content: '', id: KR3l0090_tls_013-12a.62}
+  - {type: punctuation, offset: 458, content: 。, id: KR3l0090_tls_013-bkkpn97}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3l0090_tls_013-12a.63}
+  - {type: variant, offset: 461, length: 1, content: 魯, WYG: 吳}
+  - {type: variant, offset: 461, length: 1, content: 魯, krp: 吳}
+  - {type: punctuation, offset: 466, content: ，, id: KR3l0090_tls_013-bkkpn98}
+  - {type: 'tls:seg', offset: 466, content: '', id: KR3l0090_tls_013-12a.64}
+  - {type: punctuation, offset: 472, content: ，, id: KR3l0090_tls_013-bkkpn99}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR3l0090_tls_013-12a.65}
+  - {type: punctuation, offset: 478, content: ，, id: KR3l0090_tls_013-bkkpn100}
+  - {type: 'tls:seg', offset: 478, content: '', id: KR3l0090_tls_013-12a.66}
+  - {type: page-break, offset: 478, content: '', id: KR3l0090_WYG_013-4b, image: WYG1042/WYG1042-0069b.png}
+  - {type: variant, offset: 480, length: 1, content: 陰, WYG: 隂}
+  - {type: variant, offset: 480, length: 1, content: 陰, krp: 隂}
+  - {type: punctuation, offset: 482, content: 。, id: KR3l0090_tls_013-bkkpn101}
+  - {type: 'tls:seg', offset: 482, content: '', id: KR3l0090_tls_013-12a.67}
+  - {type: variant, offset: 482, length: 0, content: '', WYG: 今泗水出魯國下縣西南至髙平胡陸縣東南經沛國彭城下邳至臨淮下相縣入淮}
+  - {type: variant, offset: 482, length: 0, content: '', krp: 今泗水出魯國下縣西南至髙平胡陸縣東南經沛國彭城下邳至臨淮下相縣入淮}
+  - {type: variant, offset: 485, length: 1, content: 象, WYG: 𧰼}
+  - {type: variant, offset: 485, length: 1, content: 象, krp: 𧰼}
+  - {type: punctuation, offset: 487, content: ，, id: KR3l0090_tls_013-bkkpn102}
+  - {type: 'tls:seg', offset: 487, content: '', id: KR3l0090_tls_013-12a.68}
+  - {type: punctuation, offset: 493, content: ，, id: KR3l0090_tls_013-bkkpn103}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR3l0090_tls_013-12a.69}
+  - {type: punctuation, offset: 498, content: 。, id: KR3l0090_tls_013-bkkpn104}
+  - {type: 'tls:seg', offset: 498, content: '', id: KR3l0090_tls_013-12a.70}
+  - {type: variant, offset: 502, length: 1, content: 武, WYG: 晉}
+  - {type: variant, offset: 502, length: 1, content: 武, krp: 晉}
+  - {type: punctuation, offset: 505, content: ，, id: KR3l0090_tls_013-bkkpn105}
+  - {type: 'tls:seg', offset: 505, content: '', id: KR3l0090_tls_013-12a.71}
+  - {type: variant, offset: 505, length: 0, content: '', WYG: 音如肄習之肄}
+  - {type: variant, offset: 505, length: 0, content: '', krp: 音如肄習之肄}
+  - {type: punctuation, offset: 510, content: ，, id: KR3l0090_tls_013-bkkpn106}
+  - {type: 'tls:seg', offset: 510, content: '', id: KR3l0090_tls_013-12a.72}
+  - {type: variant, offset: 512, length: 0, content: '', WYG: 隅西番}
+  - {type: variant, offset: 512, length: 0, content: '', krp: 隅西番}
+  - {type: variant, offset: 513, length: 1, content: 西, WYG: 縣属南海越之城下也}
+  - {type: variant, offset: 513, length: 1, content: 西, krp: 縣属南海越之城下也}
+  - {type: punctuation, offset: 514, content: 。, id: KR3l0090_tls_013-bkkpn107}
+  - {type: 'tls:seg', offset: 514, content: '', id: KR3l0090_tls_013-12a.73}
+  - {type: punctuation, offset: 522, content: ，, id: KR3l0090_tls_013-bkkpn108}
+  - {type: 'tls:seg', offset: 522, content: '', id: KR3l0090_tls_013-12a.74}
+  - {type: punctuation, offset: 527, content: ，, id: KR3l0090_tls_013-bkkpn109}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR3l0090_tls_013-12a.75}
+  - {type: punctuation, offset: 531, content: 。, id: KR3l0090_tls_013-bkkpn110}
+  - {type: 'tls:seg', offset: 531, content: '', id: KR3l0090_tls_013-12a.76}
+  - {type: variant, offset: 534, length: 1, content: 上, WYG: ''}
+  - {type: variant, offset: 534, length: 1, content: 上, krp: ''}
+  - {type: punctuation, offset: 538, content: ，, id: KR3l0090_tls_013-bkkpn111}
+  - {type: 'tls:seg', offset: 538, content: '', id: KR3l0090_tls_013-12a.77}
+  - {type: punctuation, offset: 542, content: ，, id: KR3l0090_tls_013-bkkpn112}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR3l0090_tls_013-12a.78}
+  - {type: variant, offset: 544, length: 1, content: 皋, WYG: 臯}
+  - {type: variant, offset: 544, length: 1, content: 皋, krp: 臯}
+  - {type: punctuation, offset: 545, content: （, id: KR3l0090_tls_013-bkkpn113}
+  - {type: 'tls:seg', offset: 545, content: '', id: KR3l0090_tls_013-12a.79}
+  - {type: punctuation, offset: 546, content: ）, id: KR3l0090_tls_013-bkkpn114}
+  - {type: punctuation, offset: 547, content: 。, id: KR3l0090_tls_013-bkkpn115}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR3l0090_tls_013-12a.80}
+  - {type: variant, offset: 547, length: 0, content: '', WYG: 書云道洛自熊耳按水經洛水今出上洛冢嶺山東北經𢎞農至河南鞏縣入河成臯縣亦属河南也}
+  - {type: variant, offset: 547, length: 0, content: '', krp: 書云道洛自熊耳按水經洛水今出上洛冢嶺山東北經𢎞農至河南鞏縣入河成臯縣亦属河南也}
+  - {type: punctuation, offset: 553, content: ，, id: KR3l0090_tls_013-bkkpn116}
+  - {type: 'tls:seg', offset: 553, content: '', id: KR3l0090_tls_013-12a.81}
+  - {type: variant, offset: 553, length: 0, content: '', WYG: 音愈}
+  - {type: variant, offset: 553, length: 0, content: '', krp: 音愈}
+  - {type: punctuation, offset: 558, content: ，, id: KR3l0090_tls_013-bkkpn117}
+  - {type: 'tls:seg', offset: 558, content: '', id: KR3l0090_tls_013-12a.82}
+  - {type: punctuation, offset: 562, content: 。, id: KR3l0090_tls_013-bkkpn118}
+  - {type: 'tls:seg', offset: 562, content: '', id: KR3l0090_tls_013-12a.83}
+  - {type: variant, offset: 562, length: 0, content: '', WYG: 今汾水出太原晋陽故汾陽縣東南經晋陽西南經西河平陽至河東汾隂入河皮氏縣属平陽}
+  - {type: page-break, offset: 562, content: '', id: KR3l0090_WYG_013-5a, image: WYG1042/WYG1042-0069c.png}
+  - {type: variant, offset: 562, length: 0, content: '', krp: 今汾水出太原晋陽故汾陽縣東南經晋陽西南經西河平陽至河東汾隂入河皮氏縣属平陽}
+  - {type: punctuation, offset: 569, content: ，, id: KR3l0090_tls_013-bkkpn119}
+  - {type: 'tls:seg', offset: 569, content: '', id: KR3l0090_tls_013-12a.84}
+  - {type: punctuation, offset: 573, content: ，, id: KR3l0090_tls_013-bkkpn120}
+  - {type: 'tls:seg', offset: 573, content: '', id: KR3l0090_tls_013-12a.85}
+  - {type: punctuation, offset: 577, content: 。, id: KR3l0090_tls_013-bkkpn121}
+  - {type: 'tls:seg', offset: 577, content: '', id: KR3l0090_tls_013-12a.86}
+  - {type: variant, offset: 577, length: 0, content: '', WYG: 懷縣属河内河内北有井陘山}
+  - {type: variant, offset: 577, length: 0, content: '', krp: 懷縣属河内河内北有井陘山}
+  - {type: punctuation, offset: 585, content: ，, id: KR3l0090_tls_013-bkkpn122}
+  - {type: 'tls:seg', offset: 585, content: '', id: KR3l0090_tls_013-12a.87}
+  - {type: variant, offset: 585, length: 1, content: 絕, WYG: 共與㳟同絶}
+  - {type: variant, offset: 585, length: 1, content: 絕, krp: 共與㳟同絶}
+  - {type: substitution, offset: 585, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: substitution, offset: 586, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: punctuation, offset: 589, content: ，, id: KR3l0090_tls_013-bkkpn123}
+  - {type: 'tls:seg', offset: 589, content: '', id: KR3l0090_tls_013-12a.88}
+  - {type: variant, offset: 589, length: 0, content: '', WYG: 絶猶截度也鉅鹿今在髙平}
+  - {type: variant, offset: 589, length: 0, content: '', krp: 絶猶截度也鉅鹿今在髙平}
+  - {type: punctuation, offset: 592, content: ，, id: KR3l0090_tls_013-bkkpn124}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR3l0090_tls_013-12a.89}
+  - {type: punctuation, offset: 598, content: 。, id: KR3l0090_tls_013-bkkpn125}
+  - {type: 'tls:seg', offset: 598, content: '', id: KR3l0090_tls_013-12a.90}
+  - {type: variant, offset: 598, length: 0, content: '', WYG: 今濟水自滎陽卷縣東經陳留至潛隂北東北至髙平東北經濟南至樂安博昌縣入海今碣石也諸水所出又與水經違錯以為凡山川或有同名而異實或同實而異名或一實而數名似是而非似非而是且歴代久逺古今變易語有楚夏名號不同未得詳也}
+  - {type: variant, offset: 598, length: 0, content: '', krp: 今濟水自滎陽卷縣東經陳留至潛隂北東北至髙平東北經濟南至樂安博昌縣入海今碣石也諸水所出又與水經違錯以為凡山川或有同名而異實或同實而異名或一實而數名似是而非似非而是且歴代久逺古今變易語有楚夏名號不同未得詳也}
+  - {type: variant, offset: 602, length: 1, content: 皋, WYG: 臯}
+  - {type: variant, offset: 602, length: 1, content: 皋, krp: 臯}
+  - {type: punctuation, offset: 604, content: ，, id: KR3l0090_tls_013-bkkpn126}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR3l0090_tls_013-12a.91}
+  - {type: variant, offset: 604, length: 0, content: '', WYG: 出塞外衛臯山𤣥菟髙句驪縣有潦山小潦水所出西河注大潦音遼}
+  - {type: variant, offset: 604, length: 0, content: '', krp: 出塞外衛臯山𤣥菟髙句驪縣有潦山小潦水所出西河注大潦音遼}
+  - {type: punctuation, offset: 609, content: ，, id: KR3l0090_tls_013-bkkpn127}
+  - {type: 'tls:seg', offset: 609, content: '', id: KR3l0090_tls_013-12a.92}
+  - {type: punctuation, offset: 612, content: 。, id: KR3l0090_tls_013-bkkpn128}
+  - {type: 'tls:seg', offset: 612, content: '', id: KR3l0090_tls_013-12a.93}
+  - {type: variant, offset: 612, length: 0, content: '', WYG: 潦陽縣屬潦東}
+  - {type: page-break, offset: 612, content: '', id: KR3l0090_WYG_013-5b, image: WYG1042/WYG1042-0069d.png}
+  - {type: variant, offset: 612, length: 0, content: '', krp: 潦陽縣屬潦東}
+  - {type: substitution, offset: 612, original: 虖, replacement: 呼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0515}}
+  - {type: variant, offset: 613, length: 1, content: 沱, WYG: 沲}
+  - {type: variant, offset: 613, length: 1, content: 沱, krp: 沲}
+  - {type: punctuation, offset: 620, content: ，, id: KR3l0090_tls_013-bkkpn129}
+  - {type: 'tls:seg', offset: 620, content: '', id: KR3l0090_tls_013-12a.94}
+  - {type: punctuation, offset: 626, content: ，, id: KR3l0090_tls_013-bkkpn130}
+  - {type: 'tls:seg', offset: 626, content: '', id: KR3l0090_tls_013-12a.95}
+  - {type: punctuation, offset: 631, content: ，, id: KR3l0090_tls_013-bkkpn131}
+  - {type: 'tls:seg', offset: 631, content: '', id: KR3l0090_tls_013-12a.96}
+  - {type: variant, offset: 631, length: 0, content: '', WYG: 經河間樂城東北注渤海也晋陽陽曲縣皆属太原}
+  - {type: variant, offset: 631, length: 0, content: '', krp: 經河間樂城東北注渤海也晋陽陽曲縣皆属太原}
+  - {type: variant, offset: 632, length: 0, content: '', WYG: 越}
+  - {type: variant, offset: 632, length: 0, content: '', krp: 越}
+  - {type: punctuation, offset: 635, content: 。, id: KR3l0090_tls_013-bkkpn132}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR3l0090_tls_013-12a.97}
+  - {type: variant, offset: 635, length: 0, content: '', WYG: 章武郡名}
+  - {type: variant, offset: 635, length: 0, content: '', krp: 章武郡名}
+  - {type: punctuation, offset: 641, content: ，, id: KR3l0090_tls_013-bkkpn133}
+  - {type: 'tls:seg', offset: 641, content: '', id: KR3l0090_tls_013-12a.98}
+  - {type: punctuation, offset: 645, content: ，, id: KR3l0090_tls_013-bkkpn134}
+  - {type: 'tls:seg', offset: 645, content: '', id: KR3l0090_tls_013-12a.99}
+  - {type: punctuation, offset: 649, content: 。, id: KR3l0090_tls_013-bkkpn135}
+  - {type: 'tls:seg', offset: 649, content: '', id: KR3l0090_tls_013-13a.1}
+  - {type: xml-element, offset: 649, content: '', id: KR3l0090_tls_013-bkkxmlele27}
+  - {type: xml-element, offset: 649, content: '', id: KR3l0090_tls_013-bkkxmlele28}
+  - {type: 'tls:seg', offset: 649, content: '', id: KR3l0090_tls_013-13a.2}
+  - {type: variant, offset: 649, length: 39, content: 建平元年四月丙戌待詔太常屬臣望校治侍中光祿勳臣龔侍中奉車都尉光祿大夫臣秀領主省, WYG: 新城汴隂縣亦有漳水山海經卷十三}
+  - {type: variant, offset: 649, length: 39, content: 建平元年四月丙戌待詔太常屬臣望校治侍中光祿勳臣龔侍中奉車都尉光祿大夫臣秀領主省, krp: 新城汴隂縣亦有漳水山海經卷十三}
+  - {type: punctuation, offset: 657, content: ，, id: KR3l0090_tls_013-bkkpn136}
+  - {type: 'tls:seg', offset: 657, content: '', id: KR3l0090_tls_013-13a.3}
+  - {type: punctuation, offset: 666, content: ，, id: KR3l0090_tls_013-bkkpn137}
+  - {type: 'tls:seg', offset: 666, content: '', id: KR3l0090_tls_013-13a.4}
+  - {type: punctuation, offset: 673, content: 、, id: KR3l0090_tls_013-bkkpn138}
+  - {type: 'tls:seg', offset: 673, content: '', id: KR3l0090_tls_013-13a.5}
+  - {type: punctuation, offset: 688, content: 。, id: KR3l0090_tls_013-bkkpn139}
+  - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele29}
+  - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele30}
+  back: []
+hash: sha256:9d009e93f1df40f75a83dd81185ab971d78bd77eccb4838854a6078cf61ae368

@@ -1,0 +1,412 @@
+canonical_identifier: bkk:krp/KR3l0090/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3l0090/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 山海經
+  identifiers:
+    krp: KR3l0090
+  tags:
+    kr-categories: KR3l
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat06230
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0090.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3l0090_001-tls.yaml, hash: 'sha256:48fb693dbda5c2292cb7104a4b1902afe95ccae75d270efe18c0c9c300288a51'}
+  - {seq: 2, filename: KR3l0090_002-tls.yaml, hash: 'sha256:e12b3eed07219bccabfb7de7cdd89cf43f8ae2ea007cc5138abdc5f069fa8468'}
+  - {seq: 3, filename: KR3l0090_003-tls.yaml, hash: 'sha256:957b8137ecfccf40c3e5d9963f1c72aa21b0d0b778fa57eb50431789b98a67f6'}
+  - {seq: 4, filename: KR3l0090_004-tls.yaml, hash: 'sha256:8fb45d0fe61cfd392cb2ebf5a5a9d557d22382aeae0b0794bf0048dcf16bbf87'}
+  - {seq: 5, filename: KR3l0090_005-tls.yaml, hash: 'sha256:bfca8ab7303e628165c3543c0deb21d8c1badc21f7e54715fe266fcd90793771'}
+  - {seq: 6, filename: KR3l0090_006-tls.yaml, hash: 'sha256:7a64ea26a940e463d3fed709c8f7c0a0e568548e46ca3d1cb43e224d5678607f'}
+  - {seq: 7, filename: KR3l0090_007-tls.yaml, hash: 'sha256:9d04617877f500594b4340b3381c2ae4eca534f0ec285f0756f9f712ef27a64a'}
+  - {seq: 8, filename: KR3l0090_008-tls.yaml, hash: 'sha256:835919a625921e9cc6159ab12f4bb7728146fc857b85423de783e739c85470fe'}
+  - {seq: 9, filename: KR3l0090_009-tls.yaml, hash: 'sha256:20e7253ce20bee4ab2e6942baa800ad3878e6e498a7d760828c89a6ad076081a'}
+  - {seq: 10, filename: KR3l0090_010-tls.yaml, hash: 'sha256:ff384355723358748bed74cbfc257c113d3eecd79811973f831b0515399b433a'}
+  - {seq: 11, filename: KR3l0090_011-tls.yaml, hash: 'sha256:c3974692cb54f025e6f8e628c204b7495ed318853c2d90ace8211563f8add04c'}
+  - {seq: 12, filename: KR3l0090_012-tls.yaml, hash: 'sha256:f0e60a5257b3f19005fcc359bf407c23ceccd25f14a53f1db0d8cf4f1281e992'}
+  - {seq: 13, filename: KR3l0090_013-tls.yaml, hash: 'sha256:bac9a078fd1eb64de5ce78975eec0dfde710a2e76d7044e0729a4897aab0f6e6'}
+  - {seq: 14, filename: KR3l0090_014-tls.yaml, hash: 'sha256:3b336d41c895c3a46bd120da4ac31f8c5186c0b5d6d0462a32a860e79f3780f0'}
+  - {seq: 15, filename: KR3l0090_015-tls.yaml, hash: 'sha256:5b802067fbd170f005386b2897eea0f98595d4a0e765efad7e3651da45bdf07b'}
+  - {seq: 16, filename: KR3l0090_016-tls.yaml, hash: 'sha256:d8711e4d4bce0c933f965f41044d815d9bcff9002197b7160dd0f0c74a8e7514'}
+  - {seq: 17, filename: KR3l0090_017-tls.yaml, hash: 'sha256:46fae52351637ece28c64ad72796660d96ec59a41dc47ac2e34a6be539fe49b5'}
+  - {seq: 18, filename: KR3l0090_018-tls.yaml, hash: 'sha256:856f63d10f4ee60bae16ae4601c225153e65294fd6d1bd042d3cc2ebbbed6062'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3l0090_001-tls.markers.yaml, hash: 'sha256:c2bec932a3a840e2f5f13f7f95400dcb690d1676326e91f97ae41d5318f84f5f'}
+  - {seq: 2, role: markers, filename: assets/KR3l0090_002-tls.markers.yaml, hash: 'sha256:c8639831e5cdc2f2f670b36beb874cdfb5f6d5c7ba739fd12550742f3c5cc105'}
+  - {seq: 3, role: markers, filename: assets/KR3l0090_003-tls.markers.yaml, hash: 'sha256:8e17cd3feabcb54fa1c222c1331823c43b1a57c0b49d80cbc3457ab26ebfef54'}
+  - {seq: 4, role: markers, filename: assets/KR3l0090_004-tls.markers.yaml, hash: 'sha256:a2770d4678328bfc87df37b0c9fc70c92b3332ea8b497c8ec97235462007c26e'}
+  - {seq: 5, role: markers, filename: assets/KR3l0090_005-tls.markers.yaml, hash: 'sha256:6a8b16edc0574c6241e774d35c2017fb8dfceaa5c30808a4a3546e6ab84d99af'}
+  - {seq: 6, role: markers, filename: assets/KR3l0090_006-tls.markers.yaml, hash: 'sha256:5d57f1bbd1466f01743ae407dbc533497e967a5c56a2e397694248af80fd2d60'}
+  - {seq: 7, role: markers, filename: assets/KR3l0090_007-tls.markers.yaml, hash: 'sha256:f4bddaf6a0e2296955db147213b5b5e36d2a14e0205a7b5f5f3d3da1e640a237'}
+  - {seq: 8, role: markers, filename: assets/KR3l0090_008-tls.markers.yaml, hash: 'sha256:8d12ad3ff4e364c5844397d79446e48ed3cc5627196838551a5ebc939868d535'}
+  - {seq: 9, role: markers, filename: assets/KR3l0090_009-tls.markers.yaml, hash: 'sha256:2185c65a7871c73c758b5cc7b5905ba07a093062d5a99b5599756f214af2886b'}
+  - {seq: 10, role: markers, filename: assets/KR3l0090_010-tls.markers.yaml, hash: 'sha256:b6e27e1070f376f279549b618b785bbf71b5cfeb4907477249198a10089ffbae'}
+  - {seq: 11, role: markers, filename: assets/KR3l0090_011-tls.markers.yaml, hash: 'sha256:90c2f401350f29adf836bdfe529e0d13bf5f982ce40137475c5ff9ae0739aac3'}
+  - {seq: 12, role: markers, filename: assets/KR3l0090_012-tls.markers.yaml, hash: 'sha256:be0e5f3a17848d8c575fe471334e3028a8c65940c09e241af273a2ade9201983'}
+  - {seq: 13, role: markers, filename: assets/KR3l0090_013-tls.markers.yaml, hash: 'sha256:463a7eff542e51d57a713e7a2c37c32cb2557f6c74f9ac84a993cab21b22b690'}
+  - {seq: 14, role: markers, filename: assets/KR3l0090_014-tls.markers.yaml, hash: 'sha256:044fd74c76a1fdfb7a5dfcdfc2f299e42f4481d2d5c831aa9caf9a8b58f57c91'}
+  - {seq: 15, role: markers, filename: assets/KR3l0090_015-tls.markers.yaml, hash: 'sha256:232f930fb5fd0b5467e50f59b821479be2dc00867a64f1e63db93efae5dda53d'}
+  - {seq: 16, role: markers, filename: assets/KR3l0090_016-tls.markers.yaml, hash: 'sha256:37d54d25930af0235b0bd8fa8ac854b55f18822178665a6b38aabb408559aeca'}
+  - {seq: 17, role: markers, filename: assets/KR3l0090_017-tls.markers.yaml, hash: 'sha256:6b58b34bc9d26823b616ff9903d6cf04c043a0f4a9551fe633aa1bf5561a3f7f'}
+  - {seq: 18, role: markers, filename: assets/KR3l0090_018-tls.markers.yaml, hash: 'sha256:146313a8729cc112b084da0741bbd5af67b0b5978e4b10123e6b0f0c0dce9f04'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3l0090_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 1884
+  label: 南山經第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3l0090_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 南山經第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3l0090_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 4674
+  label: 西山經第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3l0090_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 西山經第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3l0090_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 4263
+  label: 北山經第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3l0090_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 北山經第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3l0090_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 2127
+  label: 東山經第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3l0090_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 東山經第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3l0090_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 8597
+  label: 中山經第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3l0090_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 中山經第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3l0090_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 585
+  label: 海外南經第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3l0090_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海外南經第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3l0090_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 565
+  label: 海外西經第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3l0090_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海外西經第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3l0090_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 608
+  label: 海外北經第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3l0090_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海外北經第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3l0090_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 513
+  label: 海外東經第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3l0090_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海外東經第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3l0090_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 384
+  label: 海內南經第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3l0090_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海內南經第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3l0090_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 523
+  label: 海內西經第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3l0090_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海內西經第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3l0090_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 517
+  label: 海內北經第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3l0090_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海內北經第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3l0090_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 688
+  label: 海內東經第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3l0090_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 海內東經第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3l0090_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 867
+  label: 大荒東經第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3l0090_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 大荒東經第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3l0090_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 985
+  label: 大荒南經第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3l0090_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 大荒南經第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3l0090_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 1303
+  label: 大荒西經第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3l0090_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 大荒西經第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3l0090_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 1094
+  label: 大荒北經第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3l0090_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 大荒北經第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3l0090_tls_018-1a.3-h
+    span:
+    - body
+    - 0
+    - 1149
+  label: 海內經第十八
+  type: section
+  level: 1
+hash: sha256:f26e82b47beb73f32345a096c3f7c33b6ee886b99f66b87928cd48cff58e21f8
