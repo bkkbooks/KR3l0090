@@ -19,7 +19,6 @@ markers:
   - {type: xml-element, offset: 17, content: '', id: KR3l0090_tls_007-bkkxmlele5}
   - {type: xml-element, offset: 17, content: '', id: KR3l0090_tls_007-bkkxmlele6}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3l0090_tls_007-2a.2}
-  - {type: substitution, offset: 22, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 25, content: ，, id: KR3l0090_tls_007-bkkpn2}
   - {type: 'tls:seg', offset: 25, content: '', id: KR3l0090_tls_007-2a.3}
   - {type: punctuation, offset: 28, content: ，, id: KR3l0090_tls_007-bkkpn3}
@@ -42,7 +41,6 @@ markers:
   - {type: 'tls:seg', offset: 46, content: '', id: KR3l0090_tls_007-4a.3}
   - {type: variant, offset: 48, length: 1, content: 啟, WYG: 啓}
   - {type: variant, offset: 48, length: 1, content: 啟, krp: 啓}
-  - {type: substitution, offset: 48, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 54, content: ；, id: KR3l0090_tls_007-bkkpn8}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3l0090_tls_007-4a.4}
   - {type: variant, offset: 54, length: 0, content: '', WYG: 九代馬名儛謂盤作之令舞也}
@@ -81,7 +79,6 @@ markers:
   - {type: 'tls:seg', offset: 83, content: '', id: KR3l0090_tls_007-5a.2}
   - {type: variant, offset: 89, length: 1, content: 啟, WYG: 啓}
   - {type: variant, offset: 89, length: 1, content: 啟, krp: 啓}
-  - {type: substitution, offset: 89, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 91, content: ，, id: KR3l0090_tls_007-bkkpn16}
   - {type: 'tls:seg', offset: 91, content: '', id: KR3l0090_tls_007-5a.3}
   - {type: punctuation, offset: 96, content: 。, id: KR3l0090_tls_007-bkkpn17}
@@ -246,7 +243,6 @@ markers:
   - {type: 'tls:seg', offset: 299, content: '', id: KR3l0090_tls_007-13a.6}
   - {type: variant, offset: 299, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 299, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 299, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 306, content: 。, id: KR3l0090_tls_007-bkkpn63}
   - {type: 'tls:seg', offset: 306, content: '', id: KR3l0090_tls_007-14a.1}
   - {type: xml-element, offset: 306, content: '', id: KR3l0090_tls_007-bkkxmlele29}
@@ -343,7 +339,6 @@ markers:
   - {type: variant, offset: 427, length: 0, content: '', krp: 言滋味無所不有所願得自在此謂夭野也}
   - {type: variant, offset: 431, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 431, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 431, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 433, content: 。, id: KR3l0090_tls_007-bkkpn91}
   - {type: 'tls:seg', offset: 433, content: '', id: KR3l0090_tls_007-18a.11}
   - {type: punctuation, offset: 437, content: ，, id: KR3l0090_tls_007-bkkpn92}
@@ -363,7 +358,6 @@ markers:
   - {type: 'tls:seg', offset: 461, content: '', id: KR3l0090_tls_007-19a.4}
   - {type: variant, offset: 463, length: 1, content: 鰕, WYG: 蝦音遐}
   - {type: variant, offset: 463, length: 1, content: 鰕, krp: 蝦音遐}
-  - {type: substitution, offset: 463, original: 鰕, replacement: 蝦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3751}}
   - {type: punctuation, offset: 464, content: 。, id: KR3l0090_tls_007-bkkpn97}
   - {type: 'tls:seg', offset: 464, content: '', id: KR3l0090_tls_007-19a.5}
   - {type: punctuation, offset: 474, content: 。, id: KR3l0090_tls_007-bkkpn98}
@@ -455,4 +449,4 @@ markers:
   - {type: page-break, offset: 565, content: '', id: KR3l0090_WYG_007-4b, image: WYG1042/WYG1042-0058b.png}
   - {type: variant, offset: 565, length: 0, content: '', krp: 金神也人靣虎爪白毛執鉞見外傳山海經卷七}
   back: []
-hash: sha256:126e30b6877646afe0e325c0d78267d0c8ad267a3bc8bf7304b9bf1caedc6653
+hash: sha256:fbabb65f2038adb2b78dd9adf827576f0607bcf37637352af387e44d86c974a4

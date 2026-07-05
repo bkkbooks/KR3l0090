@@ -23,15 +23,12 @@ markers:
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_011-bkkxmlele5}
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_011-bkkxmlele6}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3l0090_tls_011-2a.2}
-  - {type: substitution, offset: 15, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 21, content: ，, id: KR3l0090_tls_011-bkkpn2}
   - {type: 'tls:seg', offset: 21, content: '', id: KR3l0090_tls_011-2a.3}
-  - {type: substitution, offset: 23, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 28, content: 。, id: KR3l0090_tls_011-bkkpn3}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3l0090_tls_011-2a.4}
   - {type: variant, offset: 32, length: 1, content: 䟽, WYG: 疏}
   - {type: variant, offset: 32, length: 1, content: 䟽, krp: 疏}
-  - {type: substitution, offset: 32, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 36, content: ，, id: KR3l0090_tls_011-bkkpn4}
   - {type: 'tls:seg', offset: 36, content: '', id: KR3l0090_tls_011-2a.5}
   - {type: variant, offset: 36, length: 0, content: '', WYG: 梏猶繋縳也古沃切}
@@ -58,7 +55,6 @@ markers:
   - {type: 'tls:seg', offset: 61, content: '', id: KR3l0090_tls_011-3a.3}
   - {type: variant, offset: 61, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 61, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 61, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 68, content: 。, id: KR3l0090_tls_011-bkkpn10}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3l0090_tls_011-3a.4}
   - {type: variant, offset: 68, length: 0, content: '', WYG: 百鳥於此生乳解之毛羽}
@@ -407,7 +403,6 @@ markers:
   - {type: 'tls:seg', offset: 474, content: '', id: KR3l0090_tls_011-21a.11}
   - {type: punctuation, offset: 478, content: ，, id: KR3l0090_tls_011-bkkpn107}
   - {type: 'tls:seg', offset: 478, content: '', id: KR3l0090_tls_011-21a.12}
-  - {type: substitution, offset: 478, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 484, content: 。, id: KR3l0090_tls_011-bkkpn108}
   - {type: 'tls:seg', offset: 484, content: '', id: KR3l0090_tls_011-22a.1}
   - {type: xml-element, offset: 484, content: '', id: KR3l0090_tls_011-bkkxmlele45}
@@ -455,7 +450,6 @@ markers:
   - {type: 'tls:seg', offset: 520, content: '', id: KR3l0090_tls_011-23a.9}
   - {type: variant, offset: 520, length: 0, content: '', WYG: 鳥名形未詳}
   - {type: variant, offset: 520, length: 0, content: '', krp: 鳥名形未詳}
-  - {type: substitution, offset: 520, original: 鶽, replacement: 隼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4280}}
   - {type: punctuation, offset: 521, content: 、, id: KR3l0090_tls_011-bkkpn122}
   - {type: variant, offset: 521, length: 0, content: '', WYG: 鵰也穆天子傳曰爰有白鷄青鵰音竹荀之筍}
   - {type: variant, offset: 521, length: 0, content: '', krp: 鵰也穆天子傳曰爰有白鷄青鵰音竹荀之筍}
@@ -466,4 +460,4 @@ markers:
   - {type: page-break, offset: 523, content: '', id: KR3l0090_WYG_011-4b, image: WYG1042/WYG1042-0065b.png}
   - {type: variant, offset: 523, length: 0, content: '', krp: 山海經卷十一}
   back: []
-hash: sha256:73f845c5ce4bf81415302a4d6661ddf384775fd4d3905c64135586d3d8759a34
+hash: sha256:b87f9c226a5270ae083b52a9cca9234cdee9dfcc4f2e69226af15e6e35b96bb1

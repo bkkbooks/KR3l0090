@@ -555,7 +555,6 @@ markers:
   - {type: 'tls:seg', offset: 623, content: '', id: KR3l0090_tls_014-29a.4}
   - {type: punctuation, offset: 627, content: ，, id: KR3l0090_tls_014-bkkpn155}
   - {type: 'tls:seg', offset: 627, content: '', id: KR3l0090_tls_014-29a.5}
-  - {type: substitution, offset: 628, original: 壎, replacement: 塤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1902}}
   - {type: punctuation, offset: 632, content: 。, id: KR3l0090_tls_014-bkkpn156}
   - {type: 'tls:seg', offset: 632, content: '', id: KR3l0090_tls_014-30a.1}
   - {type: xml-element, offset: 632, content: '', id: KR3l0090_tls_014-bkkxmlele61}
@@ -733,4 +732,4 @@ markers:
   - {type: variant, offset: 867, length: 0, content: '', WYG: 山海經卷十四}
   - {type: variant, offset: 867, length: 0, content: '', krp: 山海經卷十四}
   back: []
-hash: sha256:95a932193b8cb12718ea7daf12a1a70559abb5f741769b10058cab4a4233d8bb
+hash: sha256:da632fb6393df4c32df35fb00dadb8189d516e047e02dbecf83e075668d11aaf

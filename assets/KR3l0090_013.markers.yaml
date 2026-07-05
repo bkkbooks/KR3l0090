@@ -23,7 +23,6 @@ markers:
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele5}
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele6}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3l0090_tls_013-2a.2}
-  - {type: substitution, offset: 15, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 21, content: 。, id: KR3l0090_tls_013-bkkpn2}
   - {type: 'tls:seg', offset: 21, content: '', id: KR3l0090_tls_013-3a.1}
   - {type: xml-element, offset: 21, content: '', id: KR3l0090_tls_013-bkkxmlele7}
@@ -440,8 +439,6 @@ markers:
   - {type: 'tls:seg', offset: 585, content: '', id: KR3l0090_tls_013-12a.87}
   - {type: variant, offset: 585, length: 1, content: 絕, WYG: 共與㳟同絶}
   - {type: variant, offset: 585, length: 1, content: 絕, krp: 共與㳟同絶}
-  - {type: substitution, offset: 585, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
-  - {type: substitution, offset: 586, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 589, content: ，, id: KR3l0090_tls_013-bkkpn123}
   - {type: 'tls:seg', offset: 589, content: '', id: KR3l0090_tls_013-12a.88}
   - {type: variant, offset: 589, length: 0, content: '', WYG: 絶猶截度也鉅鹿今在髙平}
@@ -465,7 +462,6 @@ markers:
   - {type: variant, offset: 612, length: 0, content: '', WYG: 潦陽縣屬潦東}
   - {type: page-break, offset: 612, content: '', id: KR3l0090_WYG_013-5b, image: WYG1042/WYG1042-0069d.png}
   - {type: variant, offset: 612, length: 0, content: '', krp: 潦陽縣屬潦東}
-  - {type: substitution, offset: 612, original: 虖, replacement: 呼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0515}}
   - {type: variant, offset: 613, length: 1, content: 沱, WYG: 沲}
   - {type: variant, offset: 613, length: 1, content: 沱, krp: 沲}
   - {type: punctuation, offset: 620, content: ，, id: KR3l0090_tls_013-bkkpn129}
@@ -503,4 +499,4 @@ markers:
   - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele29}
   - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele30}
   back: []
-hash: sha256:9d009e93f1df40f75a83dd81185ab971d78bd77eccb4838854a6078cf61ae368
+hash: sha256:c0262b1d6d720c1cc34e835008913552f5589adc45ee7d6c459d337417d63c15

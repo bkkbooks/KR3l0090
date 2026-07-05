@@ -45,7 +45,6 @@ markers:
   - {type: 'tls:seg', offset: 47, content: '', id: KR3l0090_tls_015-2a.4}
   - {type: variant, offset: 48, length: 1, content: 氾, WYG: 汜}
   - {type: variant, offset: 48, length: 1, content: 氾, krp: 汜}
-  - {type: substitution, offset: 48, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0393}}
   - {type: punctuation, offset: 52, content: ，, id: KR3l0090_tls_015-bkkpn11}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3l0090_tls_015-2a.5}
   - {type: punctuation, offset: 56, content: 。, id: KR3l0090_tls_015-bkkpn12}
@@ -125,7 +124,6 @@ markers:
   - {type: 'tls:seg', offset: 117, content: '', id: KR3l0090_tls_015-4a.4}
   - {type: punctuation, offset: 119, content: ，, id: KR3l0090_tls_015-bkkpn36}
   - {type: 'tls:seg', offset: 119, content: '', id: KR3l0090_tls_015-4a.5}
-  - {type: substitution, offset: 120, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 121, content: 。, id: KR3l0090_tls_015-bkkpn37}
   - {type: 'tls:seg', offset: 121, content: '', id: KR3l0090_tls_015-4a.6}
   - {type: variant, offset: 121, length: 1, content: 黃, WYG: 天地神仙藥在此也黄}
@@ -412,7 +410,6 @@ markers:
   - {type: 'tls:seg', offset: 507, content: '', id: KR3l0090_tls_015-14a.16}
   - {type: variant, offset: 508, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 508, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 508, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 511, content: 。, id: KR3l0090_tls_015-bkkpn129}
   - {type: 'tls:seg', offset: 511, content: '', id: KR3l0090_tls_015-14a.17}
   - {type: variant, offset: 512, length: 1, content: 穀, WYG: 榖}
@@ -545,7 +542,6 @@ markers:
   - {type: 'tls:seg', offset: 668, content: '', id: KR3l0090_tls_015-21a.12}
   - {type: variant, offset: 668, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 668, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 668, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 672, length: 0, content: '', WYG: 藥言𣗳花實皆為神}
   - {type: variant, offset: 672, length: 0, content: '', krp: 藥言𣗳花實皆為神}
   - {type: punctuation, offset: 673, content: 。, id: KR3l0090_tls_015-bkkpn167}
@@ -618,17 +614,14 @@ markers:
   - {type: 'tls:seg', offset: 768, content: '', id: KR3l0090_tls_015-24a.6}
   - {type: punctuation, offset: 772, content: ，, id: KR3l0090_tls_015-bkkpn191}
   - {type: 'tls:seg', offset: 772, content: '', id: KR3l0090_tls_015-24a.7}
-  - {type: substitution, offset: 776, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0257}}
   - {type: punctuation, offset: 778, content: 。, id: KR3l0090_tls_015-bkkpn192}
   - {type: 'tls:seg', offset: 778, content: '', id: KR3l0090_tls_015-24a.8}
   - {type: punctuation, offset: 782, content: ，, id: KR3l0090_tls_015-bkkpn193}
   - {type: 'tls:seg', offset: 782, content: '', id: KR3l0090_tls_015-24a.9}
   - {type: punctuation, offset: 788, content: ，, id: KR3l0090_tls_015-bkkpn194}
   - {type: 'tls:seg', offset: 788, content: '', id: KR3l0090_tls_015-24a.10}
-  - {type: substitution, offset: 789, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0257}}
   - {type: punctuation, offset: 791, content: 。, id: KR3l0090_tls_015-bkkpn195}
   - {type: 'tls:seg', offset: 791, content: '', id: KR3l0090_tls_015-24a.11}
-  - {type: substitution, offset: 791, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0257}}
   - {type: punctuation, offset: 797, content: ，, id: KR3l0090_tls_015-bkkpn196}
   - {type: 'tls:seg', offset: 797, content: '', id: KR3l0090_tls_015-24a.12}
   - {type: punctuation, offset: 799, content: ，, id: KR3l0090_tls_015-bkkpn197}
@@ -645,7 +638,6 @@ markers:
   - {type: 'tls:seg', offset: 815, content: '', id: KR3l0090_tls_015-24a.17}
   - {type: variant, offset: 815, length: 0, content: '', WYG: 管子說地所宜云其種穋䄫黒黍皆禾𩔖也苣黒黍今字作禾旁起秬虬三音}
   - {type: variant, offset: 815, length: 0, content: '', krp: 管子說地所宜云其種穋䄫黒黍皆禾𩔖也苣黒黍今字作禾旁起秬虬三音}
-  - {type: substitution, offset: 816, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0257}}
   - {type: punctuation, offset: 820, content: 。, id: KR3l0090_tls_015-bkkpn202}
   - {type: 'tls:seg', offset: 820, content: '', id: KR3l0090_tls_015-25a.1}
   - {type: xml-element, offset: 820, content: '', id: KR3l0090_tls_015-bkkxmlele51}
@@ -658,7 +650,6 @@ markers:
   - {type: 'tls:seg', offset: 824, content: '', id: KR3l0090_tls_015-25a.4}
   - {type: variant, offset: 826, length: 1, content: 葬, WYG: 𦵏}
   - {type: variant, offset: 826, length: 1, content: 葬, krp: 𦵏}
-  - {type: substitution, offset: 828, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: punctuation, offset: 830, content: 。, id: KR3l0090_tls_015-bkkpn205}
   - {type: 'tls:seg', offset: 830, content: '', id: KR3l0090_tls_015-25a.5}
   - {type: variant, offset: 830, length: 0, content: '', WYG: 即秋山也}
@@ -806,4 +797,4 @@ markers:
   - {type: variant, offset: 985, length: 0, content: '', WYG: 山海經卷十五}
   - {type: variant, offset: 985, length: 0, content: '', krp: 山海經卷十五}
   back: []
-hash: sha256:7bc5e7ebdace9dec6117dc36c66d6d54dc4cf7f27452f3d60968a8d5f4659db0
+hash: sha256:28159052becaea17864278ac4c977bd8c3f312bd383ea647360316a0c8aa59e9

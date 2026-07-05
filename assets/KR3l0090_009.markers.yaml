@@ -65,7 +65,6 @@ markers:
   - {type: 'tls:seg', offset: 71, content: '', id: KR3l0090_tls_009-3a.4}
   - {type: variant, offset: 74, length: 1, content: 舡, WYG: 船}
   - {type: variant, offset: 74, length: 1, content: 舡, krp: 船}
-  - {type: substitution, offset: 74, original: 舡, replacement: 船, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3188}}
   - {type: punctuation, offset: 75, content: 。, id: KR3l0090_tls_009-bkkpn18}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3l0090_tls_009-3a.5}
   - {type: variant, offset: 78, length: 1, content: 𨲠, WYG: 􅜚}
@@ -369,4 +368,4 @@ markers:
   - {type: xml-element, offset: 513, content: '', id: KR3l0090_tls_009-bkkxmlele37}
   - {type: xml-element, offset: 513, content: '', id: KR3l0090_tls_009-bkkxmlele38}
   back: []
-hash: sha256:c1b86692887438a58205a5c1a36c703008e8e3925ef1d48a6387c35a03c58daa
+hash: sha256:0d056132c10495a25074f6b947708edf9d5766e4f027c61f0e73056afea96ab6

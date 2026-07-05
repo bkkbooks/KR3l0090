@@ -62,7 +62,6 @@ markers:
   - {type: 'tls:seg', offset: 72, content: '', id: KR3l0090_tls_012-4a.5}
   - {type: variant, offset: 72, length: 0, content: '', WYG: 昔盤瓠殺戎王髙辛以美女妻之不可以訓乃浮之㑹稽東海中得三百里地封之生男為狗女為美人是為狗封之國也}
   - {type: variant, offset: 72, length: 0, content: '', krp: 昔盤瓠殺戎王髙辛以美女妻之不可以訓乃浮之㑹稽東海中得三百里地封之生男為狗女為美人是為狗封之國也}
-  - {type: substitution, offset: 72, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 81, content: 。, id: KR3l0090_tls_012-bkkpn12}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3l0090_tls_012-5a.1}
   - {type: xml-element, offset: 81, content: '', id: KR3l0090_tls_012-bkkxmlele11}
@@ -105,12 +104,10 @@ markers:
   - {type: xml-element, offset: 120, content: '', id: KR3l0090_tls_012-bkkxmlele13}
   - {type: xml-element, offset: 120, content: '', id: KR3l0090_tls_012-bkkxmlele14}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3l0090_tls_012-6a.2}
-  - {type: substitution, offset: 123, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 128, content: ，, id: KR3l0090_tls_012-bkkpn22}
   - {type: 'tls:seg', offset: 128, content: '', id: KR3l0090_tls_012-6a.3}
   - {type: punctuation, offset: 135, content: ，, id: KR3l0090_tls_012-bkkpn23}
   - {type: 'tls:seg', offset: 135, content: '', id: KR3l0090_tls_012-6a.4}
-  - {type: substitution, offset: 137, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: page-break, offset: 141, content: '', id: KR3l0090_WYG_012-2a, image: WYG1042/WYG1042-0066a.png}
   - {type: punctuation, offset: 143, content: ，, id: KR3l0090_tls_012-bkkpn24}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3l0090_tls_012-6a.5}
@@ -173,10 +170,8 @@ markers:
   - {type: 'tls:seg', offset: 207, content: '', id: KR3l0090_tls_012-10a.2}
   - {type: variant, offset: 207, length: 0, content: '', WYG: 此盖天子廵狩所經過夷狄慕聖人恩徳輒共為築立臺􅀚以標顯其遺跡也一本云所殺相桞地腥臊不可種五榖以為衆帝之臺}
   - {type: variant, offset: 207, length: 0, content: '', krp: 此盖天子廵狩所經過夷狄慕聖人恩徳輒共為築立臺觀以標顯其遺跡也一本云所殺相桞地腥臊不可種五榖以為衆帝之臺}
-  - {type: substitution, offset: 208, original: 蠭, replacement: 蜂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1360}}
   - {type: variant, offset: 212, length: 1, content: 蠭, WYG: 螽}
   - {type: variant, offset: 212, length: 1, content: 蠭, krp: 螽}
-  - {type: substitution, offset: 212, original: 蠭, replacement: 蜂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1360}}
   - {type: punctuation, offset: 213, content: 。, id: KR3l0090_tls_012-bkkpn42}
   - {type: 'tls:seg', offset: 213, content: '', id: KR3l0090_tls_012-10a.3}
   - {type: punctuation, offset: 219, content: 。, id: KR3l0090_tls_012-bkkpn43}
@@ -249,7 +244,6 @@ markers:
   - {type: punctuation, offset: 283, content: 。, id: KR3l0090_tls_012-bkkpn60}
   - {type: variant, offset: 283, length: 1, content: 𥘯, WYG: 袜}
   - {type: variant, offset: 283, length: 1, content: 𥘯, krp: 袜}
-  - {type: substitution, offset: 283, original: 𥘯, replacement: 祙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4248}}
   - {type: punctuation, offset: 284, content: ，, id: KR3l0090_tls_012-bkkpn61}
   - {type: 'tls:seg', offset: 284, content: '', id: KR3l0090_tls_012-15a.1}
   - {type: xml-element, offset: 284, content: '', id: KR3l0090_tls_012-bkkxmlele31}
@@ -298,7 +292,6 @@ markers:
   - {type: 'tls:seg', offset: 333, content: '', id: KR3l0090_tls_012-18a.3}
   - {type: variant, offset: 333, length: 2, content: 有氾, WYG: 汜}
   - {type: variant, offset: 333, length: 2, content: 有氾, krp: 汜}
-  - {type: substitution, offset: 334, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0393}}
   - {type: punctuation, offset: 340, content: 。, id: KR3l0090_tls_012-bkkpn72}
   - {type: 'tls:seg', offset: 340, content: '', id: KR3l0090_tls_012-19a.1}
   - {type: xml-element, offset: 340, content: '', id: KR3l0090_tls_012-bkkxmlele39}
@@ -310,7 +303,6 @@ markers:
   - {type: 'tls:seg', offset: 348, content: '', id: KR3l0090_tls_012-19a.3}
   - {type: variant, offset: 349, length: 1, content: 冰, WYG: 氷}
   - {type: variant, offset: 349, length: 1, content: 冰, krp: 氷}
-  - {type: substitution, offset: 351, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 354, content: ，, id: KR3l0090_tls_012-bkkpn74}
   - {type: 'tls:seg', offset: 354, content: '', id: KR3l0090_tls_012-19a.4}
   - {type: variant, offset: 354, length: 1, content: 冰, WYG: 氷夷馮夷也淮南云馮夷得道以潛大川即河伯也穆天子傳所謂河伯無夷者竹書作馮夷字或作氷也氷}
@@ -380,7 +372,6 @@ markers:
   - {type: 'tls:seg', offset: 429, content: '', id: KR3l0090_tls_012-23a.2}
   - {type: variant, offset: 429, length: 1, content: 蓋, WYG: 葢}
   - {type: variant, offset: 429, length: 1, content: 蓋, krp: 葢}
-  - {type: substitution, offset: 432, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 435, content: ，, id: KR3l0090_tls_012-bkkpn94}
   - {type: 'tls:seg', offset: 435, content: '', id: KR3l0090_tls_012-23a.3}
   - {type: punctuation, offset: 437, content: 。, id: KR3l0090_tls_012-bkkpn95}
@@ -470,4 +461,4 @@ markers:
   - {type: variant, offset: 517, length: 0, content: '', WYG: 山海經卷十二}
   - {type: variant, offset: 517, length: 0, content: '', krp: 山海經卷十二}
   back: []
-hash: sha256:3d70826eeef9d0737098617398f69e2cd0b9eceba4b13453ac8f7c6e15b60deb
+hash: sha256:860f0c59303b9969bff5c2af140f0228daec44a8dbad60f5125784e49f1900ba

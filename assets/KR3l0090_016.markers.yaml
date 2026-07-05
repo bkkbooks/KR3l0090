@@ -168,7 +168,6 @@ markers:
   - {type: variant, offset: 219, length: 1, content: 樹, krp: 𣗳}
   - {type: punctuation, offset: 220, content: ，, id: KR3l0090_tls_016-bkkpn44}
   - {type: 'tls:seg', offset: 220, content: '', id: KR3l0090_tls_016-9a.6}
-  - {type: substitution, offset: 222, original: 柜, replacement: 櫃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0474}}
   - {type: punctuation, offset: 226, content: ，, id: KR3l0090_tls_016-bkkpn45}
   - {type: 'tls:seg', offset: 226, content: '', id: KR3l0090_tls_016-9a.7}
   - {type: variant, offset: 226, length: 0, content: '', WYG: 木名音矩}
@@ -263,7 +262,6 @@ markers:
   - {type: 'tls:seg', offset: 342, content: '', id: KR3l0090_tls_016-14a.4}
   - {type: variant, offset: 342, length: 0, content: '', WYG: 言皮色青故不見其祼露處}
   - {type: variant, offset: 342, length: 0, content: '', krp: 言皮色青故不見其祼露處}
-  - {type: substitution, offset: 344, original: 猨, replacement: 猿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1388}}
   - {type: punctuation, offset: 346, content: 。, id: KR3l0090_tls_016-bkkpn71}
   - {type: 'tls:seg', offset: 346, content: '', id: KR3l0090_tls_016-15a.1}
   - {type: xml-element, offset: 346, content: '', id: KR3l0090_tls_016-bkkxmlele31}
@@ -392,7 +390,6 @@ markers:
   - {type: 'tls:seg', offset: 474, content: '', id: KR3l0090_tls_016-17a.27}
   - {type: variant, offset: 475, length: 1, content: 群, WYG: 羣}
   - {type: variant, offset: 475, length: 1, content: 群, krp: 羣}
-  - {type: substitution, offset: 475, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 478, content: ，, id: KR3l0090_tls_016-bkkpn113}
   - {type: 'tls:seg', offset: 478, content: '', id: KR3l0090_tls_016-17a.28}
   - {type: punctuation, offset: 483, content: 。, id: KR3l0090_tls_016-bkkpn114}
@@ -470,7 +467,6 @@ markers:
   - {type: variant, offset: 565, length: 0, content: '', krp: 王頎至沃沮國盡東界間其耆老曰國人常乘船捕魚遭風見吹數十日東一國在大海中純女無男即此國也}
   - {type: punctuation, offset: 568, content: 。, id: KR3l0090_tls_016-bkkpn133}
   - {type: 'tls:seg', offset: 568, content: '', id: KR3l0090_tls_016-23a.3}
-  - {type: substitution, offset: 569, original: 䖟, replacement: 虻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3975}}
   - {type: punctuation, offset: 571, content: 。, id: KR3l0090_tls_016-bkkpn134}
   - {type: 'tls:seg', offset: 571, content: '', id: KR3l0090_tls_016-23a.4}
   - {type: punctuation, offset: 574, content: 。, id: KR3l0090_tls_016-bkkpn135}
@@ -517,7 +513,6 @@ markers:
   - {type: xml-element, offset: 625, content: '', id: KR3l0090_tls_016-bkkxmlele55}
   - {type: xml-element, offset: 625, content: '', id: KR3l0090_tls_016-bkkxmlele56}
   - {type: 'tls:seg', offset: 625, content: '', id: KR3l0090_tls_016-27a.2}
-  - {type: substitution, offset: 627, original: 陼, replacement: 渚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3749}}
   - {type: punctuation, offset: 629, content: ，, id: KR3l0090_tls_016-bkkpn145}
   - {type: 'tls:seg', offset: 629, content: '', id: KR3l0090_tls_016-27a.3}
   - {type: punctuation, offset: 635, content: ，, id: KR3l0090_tls_016-bkkpn146}
@@ -646,7 +641,6 @@ markers:
   - {type: 'tls:seg', offset: 799, content: '', id: KR3l0090_tls_016-33a.3}
   - {type: punctuation, offset: 801, content: ，, id: KR3l0090_tls_016-bkkpn181}
   - {type: 'tls:seg', offset: 801, content: '', id: KR3l0090_tls_016-33a.4}
-  - {type: substitution, offset: 805, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 806, content: ，, id: KR3l0090_tls_016-bkkpn182}
   - {type: 'tls:seg', offset: 806, content: '', id: KR3l0090_tls_016-33a.5}
   - {type: variant, offset: 806, length: 0, content: '', WYG: 鏊音如敖}
@@ -785,7 +779,6 @@ markers:
   - {type: variant, offset: 982, length: 0, content: '', krp: 吕氏春秋曰}
   - {type: variant, offset: 983, length: 1, content: 岳, WYG: 服壽麻北懷闒耳南嶽}
   - {type: variant, offset: 983, length: 1, content: 岳, krp: 服壽麻北懷闒耳南嶽}
-  - {type: substitution, offset: 983, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: punctuation, offset: 988, content: ，, id: KR3l0090_tls_016-bkkpn225}
   - {type: 'tls:seg', offset: 988, content: '', id: KR3l0090_tls_016-39a.4}
   - {type: variant, offset: 991, length: 1, content: 虔, WYG: 䖍}
@@ -928,7 +921,6 @@ markers:
   - {type: 'tls:seg', offset: 1170, content: '', id: KR3l0090_tls_016-45a.9}
   - {type: variant, offset: 1170, length: 0, content: '', WYG: 嬪婦也言獻美女于天帝}
   - {type: variant, offset: 1170, length: 0, content: '', krp: 嬪婦也言獻美女于天帝}
-  - {type: substitution, offset: 1172, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 1178, content: 。, id: KR3l0090_tls_016-bkkpn267}
   - {type: 'tls:seg', offset: 1178, content: '', id: KR3l0090_tls_016-45a.10}
   - {type: variant, offset: 1178, length: 0, content: '', WYG: 皆天帝樂名也開登天而竊以下用之也開筮曰昔彼九㝠是與帝辯同宫之序是為九歌又曰不得竊辯與九歌以國于下義具見于歸藏}
@@ -1030,7 +1022,6 @@ markers:
   - {type: 'tls:seg', offset: 1279, content: '', id: KR3l0090_tls_016-49a.5}
   - {type: punctuation, offset: 1284, content: ，, id: KR3l0090_tls_016-bkkpn292}
   - {type: 'tls:seg', offset: 1284, content: '', id: KR3l0090_tls_016-49a.6}
-  - {type: substitution, offset: 1285, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: punctuation, offset: 1287, content: 、, id: KR3l0090_tls_016-bkkpn293}
   - {type: 'tls:seg', offset: 1287, content: '', id: KR3l0090_tls_016-49a.7}
   - {type: punctuation, offset: 1291, content: 。, id: KR3l0090_tls_016-bkkpn294}
@@ -1043,11 +1034,10 @@ markers:
   - {type: variant, offset: 1291, length: 12, content: 按夏后開即啟避漢景帝諱云, krp: 山海經卷十六}
   - {type: punctuation, offset: 1292, content: ：, id: KR3l0090_tls_016-bkkpn295}
   - {type: 'tls:seg', offset: 1292, content: '', id: KR3l0090_tls_016-50a.3}
-  - {type: substitution, offset: 1296, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 1297, content: ，, id: KR3l0090_tls_016-bkkpn296}
   - {type: 'tls:seg', offset: 1297, content: '', id: KR3l0090_tls_016-50a.4}
   - {type: punctuation, offset: 1303, content: 。, id: KR3l0090_tls_016-bkkpn297}
   - {type: xml-element, offset: 1303, content: '', id: KR3l0090_tls_016-bkkxmlele103}
   - {type: xml-element, offset: 1303, content: '', id: KR3l0090_tls_016-bkkxmlele104}
   back: []
-hash: sha256:92a944901c7cca9d20594ceb69d1a248d25b0aa0f8f71819dbb3ca983a2c0f6d
+hash: sha256:8be62e5b0b6f4e72555f6a8cf154690367359a8b00ebb993be5d08b64eecfe47

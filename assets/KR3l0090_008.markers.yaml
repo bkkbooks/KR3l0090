@@ -120,7 +120,6 @@ markers:
   - {type: variant, offset: 144, length: 1, content: 柳, krp: 桞}
   - {type: punctuation, offset: 148, content: ，, id: KR3l0090_tls_008-bkkpn32}
   - {type: 'tls:seg', offset: 148, content: '', id: KR3l0090_tls_008-6a.6}
-  - {type: substitution, offset: 151, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
   - {type: punctuation, offset: 152, content: 。, id: KR3l0090_tls_008-bkkpn33}
   - {type: 'tls:seg', offset: 152, content: '', id: KR3l0090_tls_008-6a.7}
   - {type: variant, offset: 152, length: 0, content: '', WYG: 抵觸厥掘也音撅}
@@ -146,7 +145,6 @@ markers:
   - {type: variant, offset: 172, length: 0, content: '', krp: 掘塞之而土三沮陷言其血膏浸潤壊也}
   - {type: variant, offset: 175, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 175, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 175, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 179, content: 。, id: KR3l0090_tls_008-bkkpn39}
   - {type: 'tls:seg', offset: 179, content: '', id: KR3l0090_tls_008-6a.13}
   - {type: variant, offset: 179, length: 0, content: '', WYG: 言地潤濕唯可積土以為臺觀}
@@ -482,4 +480,4 @@ markers:
   - {type: page-break, offset: 608, content: '', id: KR3l0090_WYG_008-4b, image: WYG1042/WYG1042-0060b.png}
   - {type: variant, offset: 608, length: 0, content: '', krp: 字𤣥冥水神也莊周曰禺彊立於北極一曰禺京一本云北方禺彊黒身手足乘兩龍山海經卷八}
   back: []
-hash: sha256:f4d45f2699d3ee4662c969e921a85927776027657d3ec246776419b2190d9a92
+hash: sha256:34ec10fec3142c9c65565b0c328e6a601759bb9af49530b382e53b41a8a1116e
