@@ -23,6 +23,7 @@ markers:
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele5}
   - {type: xml-element, offset: 15, content: '', id: KR3l0090_tls_013-bkkxmlele6}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3l0090_tls_013-2a.2}
+  - {type: substitution, offset: 15, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 21, content: 。, id: KR3l0090_tls_013-bkkpn2}
   - {type: 'tls:seg', offset: 21, content: '', id: KR3l0090_tls_013-3a.1}
   - {type: xml-element, offset: 21, content: '', id: KR3l0090_tls_013-bkkxmlele7}
@@ -260,8 +261,10 @@ markers:
   - {type: variant, offset: 314, length: 1, content: 溫, krp: 漢陽縣屬朱提温}
   - {type: variant, offset: 317, length: 2, content: 崆峒, WYG: ''}
   - {type: variant, offset: 317, length: 2, content: 崆峒, krp: ''}
+  - {type: substitution, offset: 318, original: 峒, replacement: 洞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18099}}
   - {type: punctuation, offset: 319, content: ，, id: KR3l0090_tls_013-bkkpn69}
   - {type: 'tls:seg', offset: 319, content: '', id: KR3l0090_tls_013-12a.35}
+  - {type: substitution, offset: 320, original: 峒, replacement: 洞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18099}}
   - {type: punctuation, offset: 326, content: ，, id: KR3l0090_tls_013-bkkpn70}
   - {type: 'tls:seg', offset: 326, content: '', id: KR3l0090_tls_013-12a.36}
   - {type: punctuation, offset: 328, content: ，, id: KR3l0090_tls_013-bkkpn71}
@@ -439,6 +442,8 @@ markers:
   - {type: 'tls:seg', offset: 585, content: '', id: KR3l0090_tls_013-12a.87}
   - {type: variant, offset: 585, length: 1, content: 絕, WYG: 共與㳟同絶}
   - {type: variant, offset: 585, length: 1, content: 絕, krp: 共與㳟同絶}
+  - {type: substitution, offset: 585, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
+  - {type: substitution, offset: 586, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 589, content: ，, id: KR3l0090_tls_013-bkkpn123}
   - {type: 'tls:seg', offset: 589, content: '', id: KR3l0090_tls_013-12a.88}
   - {type: variant, offset: 589, length: 0, content: '', WYG: 絶猶截度也鉅鹿今在髙平}
@@ -462,6 +467,7 @@ markers:
   - {type: variant, offset: 612, length: 0, content: '', WYG: 潦陽縣屬潦東}
   - {type: page-break, offset: 612, content: '', id: KR3l0090_WYG_013-5b, image: WYG1042/WYG1042-0069d.png}
   - {type: variant, offset: 612, length: 0, content: '', krp: 潦陽縣屬潦東}
+  - {type: substitution, offset: 612, original: 虖, replacement: 呼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16701}}
   - {type: variant, offset: 613, length: 1, content: 沱, WYG: 沲}
   - {type: variant, offset: 613, length: 1, content: 沱, krp: 沲}
   - {type: punctuation, offset: 620, content: ，, id: KR3l0090_tls_013-bkkpn129}
@@ -499,4 +505,4 @@ markers:
   - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele29}
   - {type: xml-element, offset: 688, content: '', id: KR3l0090_tls_013-bkkxmlele30}
   back: []
-hash: sha256:c0262b1d6d720c1cc34e835008913552f5589adc45ee7d6c459d337417d63c15
+hash: sha256:2ebc66d09331aca9ff7f4f01523e5b470b26e3408ba3e6b62dcdffa085c540e7

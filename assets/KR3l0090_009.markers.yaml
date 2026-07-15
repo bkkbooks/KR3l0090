@@ -65,6 +65,7 @@ markers:
   - {type: 'tls:seg', offset: 71, content: '', id: KR3l0090_tls_009-3a.4}
   - {type: variant, offset: 74, length: 1, content: 舡, WYG: 船}
   - {type: variant, offset: 74, length: 1, content: 舡, krp: 船}
+  - {type: substitution, offset: 74, original: 舡, replacement: 船, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19471}}
   - {type: punctuation, offset: 75, content: 。, id: KR3l0090_tls_009-bkkpn18}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3l0090_tls_009-3a.5}
   - {type: variant, offset: 78, length: 1, content: 𨲠, WYG: 􅜚}
@@ -116,8 +117,10 @@ markers:
   - {type: punctuation, offset: 148, content: 。, id: KR3l0090_tls_009-bkkpn33}
   - {type: variant, offset: 148, length: 1, content: 𧈫, WYG: 蚩}
   - {type: variant, offset: 148, length: 1, content: 𧈫, krp: 蚩}
+  - {type: substitution, offset: 148, original: 𧈫, replacement: 虹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4785}}
   - {type: variant, offset: 149, length: 1, content: 𧈫, WYG: 蚩}
   - {type: variant, offset: 149, length: 1, content: 𧈫, krp: 蚩}
+  - {type: substitution, offset: 149, original: 𧈫, replacement: 虹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4785}}
   - {type: 'tls:seg', offset: 150, content: '', id: KR3l0090_tls_009-6a.1}
   - {type: xml-element, offset: 150, content: '', id: KR3l0090_tls_009-bkkxmlele13}
   - {type: xml-element, offset: 150, content: '', id: KR3l0090_tls_009-bkkxmlele14}
@@ -145,8 +148,10 @@ markers:
   - {type: 'tls:seg', offset: 176, content: '', id: KR3l0090_tls_009-7a.5}
   - {type: variant, offset: 177, length: 1, content: 𧈫, WYG: 蚩}
   - {type: variant, offset: 177, length: 1, content: 𧈫, krp: 蚩}
+  - {type: substitution, offset: 177, original: 𧈫, replacement: 虹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4785}}
   - {type: variant, offset: 178, length: 1, content: 𧈫, WYG: 蚩}
   - {type: variant, offset: 178, length: 1, content: 𧈫, krp: 蚩}
+  - {type: substitution, offset: 178, original: 𧈫, replacement: 虹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4785}}
   - {type: punctuation, offset: 183, content: 。, id: KR3l0090_tls_009-bkkpn40}
   - {type: 'tls:seg', offset: 183, content: '', id: KR3l0090_tls_009-7a.6}
   - {type: punctuation, offset: 187, content: ，, id: KR3l0090_tls_009-bkkpn41}
@@ -303,6 +308,7 @@ markers:
   - {type: variant, offset: 398, length: 0, content: '', krp: 髀以下盡黑故云}
   - {type: variant, offset: 403, length: 0, content: '', WYG: 以魚皮為衣也}
   - {type: variant, offset: 403, length: 0, content: '', krp: 以魚皮為衣也}
+  - {type: substitution, offset: 404, original: 䳼, replacement: 鷗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6451}}
   - {type: punctuation, offset: 405, content: ，, id: KR3l0090_tls_009-bkkpn82}
   - {type: 'tls:seg', offset: 405, content: '', id: KR3l0090_tls_009-13a.4}
   - {type: variant, offset: 405, length: 0, content: '', WYG: 䳼水鳥也音憂}
@@ -368,4 +374,4 @@ markers:
   - {type: xml-element, offset: 513, content: '', id: KR3l0090_tls_009-bkkxmlele37}
   - {type: xml-element, offset: 513, content: '', id: KR3l0090_tls_009-bkkxmlele38}
   back: []
-hash: sha256:0d056132c10495a25074f6b947708edf9d5766e4f027c61f0e73056afea96ab6
+hash: sha256:9f6ac0d96e5c627578d9add9df272aeff79649c4c81eb91bdca2c89781d26d1c

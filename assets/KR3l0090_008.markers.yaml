@@ -120,6 +120,7 @@ markers:
   - {type: variant, offset: 144, length: 1, content: 柳, krp: 桞}
   - {type: punctuation, offset: 148, content: ，, id: KR3l0090_tls_008-bkkpn32}
   - {type: 'tls:seg', offset: 148, content: '', id: KR3l0090_tls_008-6a.6}
+  - {type: substitution, offset: 151, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17643}}
   - {type: punctuation, offset: 152, content: 。, id: KR3l0090_tls_008-bkkpn33}
   - {type: 'tls:seg', offset: 152, content: '', id: KR3l0090_tls_008-6a.7}
   - {type: variant, offset: 152, length: 0, content: '', WYG: 抵觸厥掘也音撅}
@@ -145,6 +146,7 @@ markers:
   - {type: variant, offset: 172, length: 0, content: '', krp: 掘塞之而土三沮陷言其血膏浸潤壊也}
   - {type: variant, offset: 175, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 175, length: 1, content: 眾, krp: 衆}
+  - {type: substitution, offset: 175, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 179, content: 。, id: KR3l0090_tls_008-bkkpn39}
   - {type: 'tls:seg', offset: 179, content: '', id: KR3l0090_tls_008-6a.13}
   - {type: variant, offset: 179, length: 0, content: '', WYG: 言地潤濕唯可積土以為臺觀}
@@ -467,6 +469,7 @@ markers:
   - {type: xml-element, offset: 592, content: '', id: KR3l0090_tls_008-bkkxmlele45}
   - {type: xml-element, offset: 592, content: '', id: KR3l0090_tls_008-bkkxmlele46}
   - {type: 'tls:seg', offset: 592, content: '', id: KR3l0090_tls_008-22a.2}
+  - {type: substitution, offset: 595, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 596, content: ，, id: KR3l0090_tls_008-bkkpn136}
   - {type: 'tls:seg', offset: 596, content: '', id: KR3l0090_tls_008-22a.3}
   - {type: punctuation, offset: 600, content: ，, id: KR3l0090_tls_008-bkkpn137}
@@ -480,4 +483,4 @@ markers:
   - {type: page-break, offset: 608, content: '', id: KR3l0090_WYG_008-4b, image: WYG1042/WYG1042-0060b.png}
   - {type: variant, offset: 608, length: 0, content: '', krp: 字𤣥冥水神也莊周曰禺彊立於北極一曰禺京一本云北方禺彊黒身手足乘兩龍山海經卷八}
   back: []
-hash: sha256:34ec10fec3142c9c65565b0c328e6a601759bb9af49530b382e53b41a8a1116e
+hash: sha256:3d1bb7ab429ad425fc14c8896b52094981f1c3f248442d6192c362c287bf1632

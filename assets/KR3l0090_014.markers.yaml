@@ -267,6 +267,7 @@ markers:
   - {type: 'tls:seg', offset: 305, content: '', id: KR3l0090_tls_014-18a.4}
   - {type: variant, offset: 305, length: 0, content: '', WYG: 聖人神化無方故其後世所降育多有殊𩔖異狀之人諸言生者多謂其苖裔未必是親所産}
   - {type: variant, offset: 305, length: 0, content: '', krp: 聖人神化無方故其後世所降育多有殊𩔖異狀之人諸言生者多謂其苖裔未必是親所産}
+  - {type: substitution, offset: 305, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 307, content: ，, id: KR3l0090_tls_014-bkkpn79}
   - {type: 'tls:seg', offset: 307, content: '', id: KR3l0090_tls_014-18a.5}
   - {type: punctuation, offset: 309, content: ，, id: KR3l0090_tls_014-bkkpn80}
@@ -555,6 +556,7 @@ markers:
   - {type: 'tls:seg', offset: 623, content: '', id: KR3l0090_tls_014-29a.4}
   - {type: punctuation, offset: 627, content: ，, id: KR3l0090_tls_014-bkkpn155}
   - {type: 'tls:seg', offset: 627, content: '', id: KR3l0090_tls_014-29a.5}
+  - {type: substitution, offset: 628, original: 壎, replacement: 塤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18173}}
   - {type: punctuation, offset: 632, content: 。, id: KR3l0090_tls_014-bkkpn156}
   - {type: 'tls:seg', offset: 632, content: '', id: KR3l0090_tls_014-30a.1}
   - {type: xml-element, offset: 632, content: '', id: KR3l0090_tls_014-bkkxmlele61}
@@ -570,6 +572,7 @@ markers:
   - {type: variant, offset: 637, length: 1, content: 搖, krp: 揺}
   - {type: punctuation, offset: 639, content: 。, id: KR3l0090_tls_014-bkkpn158}
   - {type: 'tls:seg', offset: 639, content: '', id: KR3l0090_tls_014-30a.4}
+  - {type: substitution, offset: 640, original: 䰝, replacement: 甑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-8225}}
   - {type: punctuation, offset: 642, content: 。, id: KR3l0090_tls_014-bkkpn159}
   - {type: 'tls:seg', offset: 642, content: '', id: KR3l0090_tls_014-30a.5}
   - {type: variant, offset: 642, length: 0, content: '', WYG: 音如釡甑之甑}
@@ -732,4 +735,4 @@ markers:
   - {type: variant, offset: 867, length: 0, content: '', WYG: 山海經卷十四}
   - {type: variant, offset: 867, length: 0, content: '', krp: 山海經卷十四}
   back: []
-hash: sha256:da632fb6393df4c32df35fb00dadb8189d516e047e02dbecf83e075668d11aaf
+hash: sha256:83dbff34666c0b5687de7bd62ca0267c0bff7f66ce59c2aa5a528f0673ac1004

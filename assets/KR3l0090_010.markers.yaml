@@ -71,6 +71,7 @@ markers:
   - {type: 'tls:seg', offset: 64, content: '', id: KR3l0090_tls_010-5a.4}
   - {type: variant, offset: 64, length: 0, content: '', WYG: 鎪離其耳分令下垂以為飾即儋耳也在朱崖海渚中不食五榖但噉蚌及藷藇也}
   - {type: variant, offset: 64, length: 0, content: '', krp: 鎪離其耳分令下垂以為飾即儋耳也在朱崖海渚中不食五榖但噉蚌及藷藇也}
+  - {type: substitution, offset: 64, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17778}}
   - {type: punctuation, offset: 67, content: 、, id: KR3l0090_tls_010-bkkpn11}
   - {type: 'tls:seg', offset: 67, content: '', id: KR3l0090_tls_010-5a.5}
   - {type: variant, offset: 67, length: 0, content: '', WYG: 㸃湼其面畵體為鱗采即鮫人也}
@@ -146,6 +147,7 @@ markers:
   - {type: xml-element, offset: 147, content: '', id: KR3l0090_tls_010-bkkxmlele19}
   - {type: xml-element, offset: 147, content: '', id: KR3l0090_tls_010-bkkxmlele20}
   - {type: 'tls:seg', offset: 147, content: '', id: KR3l0090_tls_010-9a.2}
+  - {type: substitution, offset: 147, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16574}}
   - {type: punctuation, offset: 153, content: ，, id: KR3l0090_tls_010-bkkpn30}
   - {type: 'tls:seg', offset: 153, content: '', id: KR3l0090_tls_010-9a.3}
   - {type: punctuation, offset: 157, content: 。, id: KR3l0090_tls_010-bkkpn31}
@@ -180,6 +182,8 @@ markers:
   - {type: 'tls:seg', offset: 187, content: '', id: KR3l0090_tls_010-12a.2}
   - {type: variant, offset: 189, length: 1, content: 啟, WYG: 啓}
   - {type: variant, offset: 189, length: 1, content: 啟, krp: 啓}
+  - {type: substitution, offset: 189, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
+  - {type: substitution, offset: 194, original: 涂, replacement: 塗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17214}}
   - {type: punctuation, offset: 195, content: ，, id: KR3l0090_tls_010-bkkpn37}
   - {type: 'tls:seg', offset: 195, content: '', id: KR3l0090_tls_010-12a.3}
   - {type: variant, offset: 198, length: 2, content: 于巴, WYG: 於}
@@ -190,6 +194,7 @@ markers:
   - {type: variant, offset: 202, length: 0, content: '', krp: 聽其獄訟為之神主}
   - {type: variant, offset: 204, length: 1, content: 于, WYG: 於}
   - {type: variant, offset: 204, length: 1, content: 于, krp: 於}
+  - {type: substitution, offset: 206, original: 涂, replacement: 塗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17214}}
   - {type: punctuation, offset: 209, content: ，, id: KR3l0090_tls_010-bkkpn39}
   - {type: 'tls:seg', offset: 209, content: '', id: KR3l0090_tls_010-12a.5}
   - {type: variant, offset: 209, length: 0, content: '', WYG: 令斷之也}
@@ -324,6 +329,7 @@ markers:
   - {type: xml-element, offset: 370, content: '', id: KR3l0090_tls_010-bkkxmlele37}
   - {type: xml-element, offset: 370, content: '', id: KR3l0090_tls_010-bkkxmlele38}
   - {type: 'tls:seg', offset: 370, content: '', id: KR3l0090_tls_010-18a.2}
+  - {type: substitution, offset: 370, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 372, content: 、, id: KR3l0090_tls_010-bkkpn76}
   - {type: 'tls:seg', offset: 372, content: '', id: KR3l0090_tls_010-18a.3}
   - {type: variant, offset: 372, length: 0, content: '', WYG: 一曰獫狁}
@@ -338,4 +344,4 @@ markers:
   - {type: variant, offset: 384, length: 0, content: '', WYG: 三國並在旄馬西北山海經卷十}
   - {type: variant, offset: 384, length: 0, content: '', krp: 三國並在旄馬西北山海經卷十}
   back: []
-hash: sha256:417e04754f11abab2b7b8bb90b08f94649d53f330cf3428ae2f28e6b9940695f
+hash: sha256:19aa0b67515b3fe291671b64974b2fe2052424d3d714b062748980ce35501a70
